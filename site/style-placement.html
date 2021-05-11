@@ -1,0 +1,39 @@
+<!doctype html>
+<html>
+<head>
+	<meta charset="utf-8">
+	<title>Style Placement</title>
+	<link rel="stylesheet" href="style.css">
+	<style>
+		#myHeader {
+  background-color: lightblue;
+  color: black;
+  padding: 20px;
+  text-align: center;}
+  #myeader {
+  background-color: black;
+  color: lightgreen;
+  padding: 40px;
+  text-align: right;}
+
+		div p {color:black;}
+		p {color:purple}
+		#myeader {color:white;}
+		h2 {color:green;}
+		
+</style>
+
+</head>
+<body>
+	<h1>Style Placement</h1>
+	<h2 id="myeader">Hello header</h2>
+	<h2 id="myHeader">My Header</h2>
+	<h2 style="color:blue;">Subheading 2</h2>
+	<div>
+	<p>Your choice for placing styles in one versus another place doesn't only affect how reusable the styles are, but it also affects which style declarations override other style declarations. Let's jump into the code and take a look at an example. Okay, on the Sublime Text, and I'm looking at the file called styleplacement.html. Let me go ahead and quickly rearrange the screen, so you can see the browser and the code editor at the same time. So here's our HTML document, and so far, we've been specifying all of our styles inside the style tag that sits inside of the head tag of our HTML document. And in this case, we're specifying that every h2 in our HTML document should have the text</p>
+</div>
+	<h2 style="color:blue;font-size:2em">Subheading 2</h2>
+
+	<p style="text-align:right;text-transform:uppercase;color:green">I am centered!</p>
+</body>
+</html>
