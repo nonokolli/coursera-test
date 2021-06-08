@@ -1,0 +1,4942 @@
+[
+	{
+		"name": "AppleColorEmoji",
+		"weight": 0
+	},
+	{
+		"name": "EmojiOneColor",
+		"weight": 0
+	},
+	{
+		"name": "AcuminConcept-ExtraCondensedThin",
+		"weight": 0
+	},
+	{
+		"name": "AcuminConcept-ExtraCondensedThinItalic",
+		"weight": 0
+	},
+	{
+		"name": "AcuminConcept-ExtraCondensedExtraLight",
+		"weight": 0
+	},
+	{
+		"name": "AcuminConcept-ExtraCondensedExtraLightItalic",
+		"weight": 0
+	},
+	{
+		"name": "AcuminConcept-ExtraCondensedLight",
+		"weight": 0
+	},
+	{
+		"name": "AcuminConcept-ExtraCondensedLightItalic",
+		"weight": 0
+	},
+	{
+		"name": "AcuminConcept-ExtraCondensed",
+		"weight": 0
+	},
+	{
+		"name": "AcuminConcept-ExtraCondensedItalic",
+		"weight": 0
+	},
+	{
+		"name": "AcuminConcept-ExtraCondensedMedium",
+		"weight": 0
+	},
+	{
+		"name": "AcuminConcept-ExtraCondensedMediumItalic",
+		"weight": 0
+	},
+	{
+		"name": "AcuminConcept-ExtraCondensedSemibold",
+		"weight": 0
+	},
+	{
+		"name": "AcuminConcept-ExtraCondensedSemiboldItalic",
+		"weight": 0
+	},
+	{
+		"name": "AcuminConcept-ExtraCondensedBold",
+		"weight": 0
+	},
+	{
+		"name": "AcuminConcept-ExtraCondensedBoldItalic",
+		"weight": 0
+	},
+	{
+		"name": "AcuminConcept-ExtraCondensedBlack",
+		"weight": 0
+	},
+	{
+		"name": "AcuminConcept-ExtraCondensedBlackItalic",
+		"weight": 0
+	},
+	{
+		"name": "AcuminConcept-ExtraCondensedUltraBlack",
+		"weight": 0
+	},
+	{
+		"name": "AcuminConcept-ExtraCondensedUltraBlackItalic",
+		"weight": 0
+	},
+	{
+		"name": "AcuminConcept-CondensedThin",
+		"weight": 0
+	},
+	{
+		"name": "AcuminConcept-CondensedThinItalic",
+		"weight": 0
+	},
+	{
+		"name": "AcuminConcept-CondensedExtraLight",
+		"weight": 0
+	},
+	{
+		"name": "AcuminConcept-CondensedExtraLightItalic",
+		"weight": 0
+	},
+	{
+		"name": "AcuminConcept-CondensedLight",
+		"weight": 0
+	},
+	{
+		"name": "AcuminConcept-CondensedLightItalic",
+		"weight": 0
+	},
+	{
+		"name": "AcuminConcept-Condensed",
+		"weight": 0
+	},
+	{
+		"name": "AcuminConcept-CondensedItalic",
+		"weight": 0
+	},
+	{
+		"name": "AcuminConcept-CondensedMedium",
+		"weight": 0
+	},
+	{
+		"name": "AcuminConcept-CondensedMediumItalic",
+		"weight": 0
+	},
+	{
+		"name": "AcuminConcept-CondensedSemibold",
+		"weight": 0
+	},
+	{
+		"name": "AcuminConcept-CondensedSemiboldItalic",
+		"weight": 0
+	},
+	{
+		"name": "AcuminConcept-CondensedBold",
+		"weight": 0
+	},
+	{
+		"name": "AcuminConcept-CondensedBoldItalic",
+		"weight": 0
+	},
+	{
+		"name": "AcuminConcept-CondensedBlack",
+		"weight": 0
+	},
+	{
+		"name": "AcuminConcept-CondensedBlackItalic",
+		"weight": 0
+	},
+	{
+		"name": "AcuminConcept-CondensedUltraBlack",
+		"weight": 0
+	},
+	{
+		"name": "AcuminConcept-CondensedUltraBlackItalic",
+		"weight": 0
+	},
+	{
+		"name": "AcuminConcept-SemiCondensedThin",
+		"weight": 0
+	},
+	{
+		"name": "AcuminConcept-SemiCondensedThinItalic",
+		"weight": 0
+	},
+	{
+		"name": "AcuminConcept-SemiCondensedExtraLight",
+		"weight": 0
+	},
+	{
+		"name": "AcuminConcept-SemiCondensedExtraLightItalic",
+		"weight": 0
+	},
+	{
+		"name": "AcuminConcept-SemiCondensedLight",
+		"weight": 0
+	},
+	{
+		"name": "AcuminConcept-SemiCondensedLightItalic",
+		"weight": 0
+	},
+	{
+		"name": "AcuminConcept-SemiCondensed",
+		"weight": 0
+	},
+	{
+		"name": "AcuminConcept-SemiCondensedItalic",
+		"weight": 0
+	},
+	{
+		"name": "AcuminConcept-SemiCondensedMedium",
+		"weight": 0
+	},
+	{
+		"name": "AcuminConcept-SemiCondensedMediumItalic",
+		"weight": 0
+	},
+	{
+		"name": "AcuminConcept-SemiCondensedSemibold",
+		"weight": 0
+	},
+	{
+		"name": "AcuminConcept-SemiCondensedSemiboldItalic",
+		"weight": 0
+	},
+	{
+		"name": "AcuminConcept-SemiCondensedBold",
+		"weight": 0
+	},
+	{
+		"name": "AcuminConcept-SemiCondensedBoldItalic",
+		"weight": 0
+	},
+	{
+		"name": "AcuminConcept-SemiCondensedBlack",
+		"weight": 0
+	},
+	{
+		"name": "AcuminConcept-SemiCondensedBlackItalic",
+		"weight": 0
+	},
+	{
+		"name": "AcuminConcept-SemiCondensedUltraBlack",
+		"weight": 0
+	},
+	{
+		"name": "AcuminConcept-SemiCondensedUltraBlackItalic",
+		"weight": 0
+	},
+	{
+		"name": "AcuminConcept-Thin",
+		"weight": 0
+	},
+	{
+		"name": "AcuminConcept-ThinItalic",
+		"weight": 0
+	},
+	{
+		"name": "AcuminConcept-ExtraLight",
+		"weight": 0
+	},
+	{
+		"name": "AcuminConcept-ExtraLightItalic",
+		"weight": 0
+	},
+	{
+		"name": "AcuminConcept-Light",
+		"weight": 0
+	},
+	{
+		"name": "AcuminConcept-LightItalic",
+		"weight": 0
+	},
+	{
+		"name": "AcuminConcept-Regular",
+		"weight": 0
+	},
+	{
+		"name": "AcuminConcept-Italic",
+		"weight": 0
+	},
+	{
+		"name": "AcuminConcept-Medium",
+		"weight": 0
+	},
+	{
+		"name": "AcuminConcept-MediumItalic",
+		"weight": 0
+	},
+	{
+		"name": "AcuminConcept-Semibold",
+		"weight": 0
+	},
+	{
+		"name": "AcuminConcept-SemiboldItalic",
+		"weight": 0
+	},
+	{
+		"name": "AcuminConcept-Bold",
+		"weight": 0
+	},
+	{
+		"name": "AcuminConcept-BoldItalic",
+		"weight": 0
+	},
+	{
+		"name": "AcuminConcept-Black",
+		"weight": 0
+	},
+	{
+		"name": "AcuminConcept-BlackItalic",
+		"weight": 0
+	},
+	{
+		"name": "AcuminConcept-UltraBlack",
+		"weight": 0
+	},
+	{
+		"name": "AcuminConcept-UltraBlackItalic",
+		"weight": 0
+	},
+	{
+		"name": "AcuminConcept-WideThin",
+		"weight": 0
+	},
+	{
+		"name": "AcuminConcept-WideThinItalic",
+		"weight": 0
+	},
+	{
+		"name": "AcuminConcept-WideExtraLight",
+		"weight": 0
+	},
+	{
+		"name": "AcuminConcept-WideExtraLightItalic",
+		"weight": 0
+	},
+	{
+		"name": "AcuminConcept-WideLight",
+		"weight": 0
+	},
+	{
+		"name": "AcuminConcept-WideLightItalic",
+		"weight": 0
+	},
+	{
+		"name": "AcuminConcept-Wide",
+		"weight": 0
+	},
+	{
+		"name": "AcuminConcept-WideItalic",
+		"weight": 0
+	},
+	{
+		"name": "AcuminConcept-WideMedium",
+		"weight": 0
+	},
+	{
+		"name": "AcuminConcept-WideMediumItalic",
+		"weight": 0
+	},
+	{
+		"name": "AcuminConcept-WideSemibold",
+		"weight": 0
+	},
+	{
+		"name": "AcuminConcept-WideSemiboldItalic",
+		"weight": 0
+	},
+	{
+		"name": "AcuminConcept-WideBold",
+		"weight": 0
+	},
+	{
+		"name": "AcuminConcept-WideBoldItalic",
+		"weight": 0
+	},
+	{
+		"name": "AcuminConcept-WideBlack",
+		"weight": 0
+	},
+	{
+		"name": "AcuminConcept-WideBlackItalic",
+		"weight": 0
+	},
+	{
+		"name": "AcuminConcept-WideUltraBlack",
+		"weight": 0
+	},
+	{
+		"name": "AcuminConcept-WideUltraBlackItalic",
+		"weight": 0
+	},
+	{
+		"name": "AmericanTypewriter-CondensedLight",
+		"weight": 0
+	},
+	{
+		"name": "AmericanTypewriter-Condensed",
+		"weight": 0
+	},
+	{
+		"name": "AmericanTypewriter-CondensedBold",
+		"weight": 0
+	},
+	{
+		"name": "AmericanTypewriter-Light",
+		"weight": 0
+	},
+	{
+		"name": "AmericanTypewriter",
+		"weight": 0
+	},
+	{
+		"name": "AmericanTypewriter-Semibold",
+		"weight": 0
+	},
+	{
+		"name": "AmericanTypewriter-Bold",
+		"weight": 0
+	},
+	{
+		"name": "AndaleMono",
+		"weight": 0
+	},
+	{
+		"name": "AppleBraille-Outline6Dot",
+		"weight": 0
+	},
+	{
+		"name": "AppleBraille-Outline8Dot",
+		"weight": 0
+	},
+	{
+		"name": "AppleBraille-Pinpoint6Dot",
+		"weight": 0
+	},
+	{
+		"name": "AppleBraille-Pinpoint8Dot",
+		"weight": 0
+	},
+	{
+		"name": "AppleBraille",
+		"weight": 0
+	},
+	{
+		"name": "Apple-Chancery",
+		"weight": 1
+	},
+	{
+		"name": "AppleSymbols",
+		"weight": 0
+	},
+	{
+		"name": "ArialMT",
+		"weight": 0
+	},
+	{
+		"name": "Arial-ItalicMT",
+		"weight": 0
+	},
+	{
+		"name": "Arial-BoldMT",
+		"weight": 0
+	},
+	{
+		"name": "Arial-BoldItalicMT",
+		"weight": 0
+	},
+	{
+		"name": "Arial-Black",
+		"weight": 0
+	},
+	{
+		"name": "ArialNarrow",
+		"weight": 0
+	},
+	{
+		"name": "ArialNarrow-Italic",
+		"weight": 0
+	},
+	{
+		"name": "ArialNarrow-Bold",
+		"weight": 0
+	},
+	{
+		"name": "ArialNarrow-BoldItalic",
+		"weight": 0
+	},
+	{
+		"name": "ArialRoundedMTBold",
+		"weight": 0
+	},
+	{
+		"name": "Athelas-Regular",
+		"weight": 0
+	},
+	{
+		"name": "Athelas-Italic",
+		"weight": 0
+	},
+	{
+		"name": "Athelas-Bold",
+		"weight": 0
+	},
+	{
+		"name": "Athelas-BoldItalic",
+		"weight": 0
+	},
+	{
+		"name": "Avenir-Light",
+		"weight": 0
+	},
+	{
+		"name": "Avenir-LightOblique",
+		"weight": 0
+	},
+	{
+		"name": "Avenir-Book",
+		"weight": 0
+	},
+	{
+		"name": "Avenir-Roman",
+		"weight": 0
+	},
+	{
+		"name": "Avenir-BookOblique",
+		"weight": 0
+	},
+	{
+		"name": "Avenir-Oblique",
+		"weight": 0
+	},
+	{
+		"name": "Avenir-Medium",
+		"weight": 0
+	},
+	{
+		"name": "Avenir-MediumOblique",
+		"weight": 0
+	},
+	{
+		"name": "Avenir-Black",
+		"weight": 0
+	},
+	{
+		"name": "Avenir-BlackOblique",
+		"weight": 0
+	},
+	{
+		"name": "Avenir-Heavy",
+		"weight": 0
+	},
+	{
+		"name": "Avenir-HeavyOblique",
+		"weight": 0
+	},
+	{
+		"name": "AvenirNext-UltraLight",
+		"weight": 0
+	},
+	{
+		"name": "AvenirNext-UltraLightItalic",
+		"weight": 0
+	},
+	{
+		"name": "AvenirNext-Regular",
+		"weight": 0
+	},
+	{
+		"name": "AvenirNext-Italic",
+		"weight": 0
+	},
+	{
+		"name": "AvenirNext-Medium",
+		"weight": 0
+	},
+	{
+		"name": "AvenirNext-MediumItalic",
+		"weight": 0
+	},
+	{
+		"name": "AvenirNext-DemiBold",
+		"weight": 0
+	},
+	{
+		"name": "AvenirNext-DemiBoldItalic",
+		"weight": 0
+	},
+	{
+		"name": "AvenirNext-Bold",
+		"weight": 0
+	},
+	{
+		"name": "AvenirNext-BoldItalic",
+		"weight": 0
+	},
+	{
+		"name": "AvenirNext-Heavy",
+		"weight": 0
+	},
+	{
+		"name": "AvenirNext-HeavyItalic",
+		"weight": 0
+	},
+	{
+		"name": "AvenirNextCondensed-UltraLight",
+		"weight": 0
+	},
+	{
+		"name": "AvenirNextCondensed-UltraLightItalic",
+		"weight": 0
+	},
+	{
+		"name": "AvenirNextCondensed-Regular",
+		"weight": 0
+	},
+	{
+		"name": "AvenirNextCondensed-Italic",
+		"weight": 0
+	},
+	{
+		"name": "AvenirNextCondensed-Medium",
+		"weight": 0
+	},
+	{
+		"name": "AvenirNextCondensed-MediumItalic",
+		"weight": 0
+	},
+	{
+		"name": "AvenirNextCondensed-DemiBold",
+		"weight": 0
+	},
+	{
+		"name": "AvenirNextCondensed-DemiBoldItalic",
+		"weight": 0
+	},
+	{
+		"name": "AvenirNextCondensed-Bold",
+		"weight": 0
+	},
+	{
+		"name": "AvenirNextCondensed-BoldItalic",
+		"weight": 0
+	},
+	{
+		"name": "AvenirNextCondensed-Heavy",
+		"weight": 0
+	},
+	{
+		"name": "AvenirNextCondensed-HeavyItalic",
+		"weight": 0
+	},
+	{
+		"name": "Ayuthaya",
+		"weight": 0
+	},
+	{
+		"name": "Baloo-Regular",
+		"weight": 0.213686
+	},
+	{
+		"name": "BalooBhai-Regular",
+		"weight": 0.21481
+	},
+	{
+		"name": "BalooBhaina-Regular",
+		"weight": 0.230719
+	},
+	{
+		"name": "BalooChettan-Regular",
+		"weight": 0.206154
+	},
+	{
+		"name": "BalooDa-Regular",
+		"weight": 0.21734
+	},
+	{
+		"name": "BalooPaaji-Regular",
+		"weight": 0.218183
+	},
+	{
+		"name": "BalooTamma-Regular",
+		"weight": 0.222062
+	},
+	{
+		"name": "BalooTammudu-Regular",
+		"weight": 0.242749
+	},
+	{
+		"name": "BalooThambi-Regular",
+		"weight": 0.21155
+	},
+	{
+		"name": "Baskerville",
+		"weight": 0
+	},
+	{
+		"name": "Baskerville-Italic",
+		"weight": 0
+	},
+	{
+		"name": "Baskerville-SemiBold",
+		"weight": 0
+	},
+	{
+		"name": "Baskerville-SemiBoldItalic",
+		"weight": 0
+	},
+	{
+		"name": "Baskerville-Bold",
+		"weight": 0
+	},
+	{
+		"name": "Baskerville-BoldItalic",
+		"weight": 0
+	},
+	{
+		"name": "BebasNeue",
+		"weight": 0
+	},
+	{
+		"name": "BigCaslon-Medium",
+		"weight": 0
+	},
+	{
+		"name": "BodoniSvtyTwoITCTT-Book",
+		"weight": 0
+	},
+	{
+		"name": "BodoniSvtyTwoITCTT-BookIta",
+		"weight": 0
+	},
+	{
+		"name": "BodoniSvtyTwoITCTT-Bold",
+		"weight": 0
+	},
+	{
+		"name": "BodoniSvtyTwoOSITCTT-Book",
+		"weight": 0
+	},
+	{
+		"name": "BodoniSvtyTwoOSITCTT-BookIt",
+		"weight": 0
+	},
+	{
+		"name": "BodoniSvtyTwoOSITCTT-Bold",
+		"weight": 0
+	},
+	{
+		"name": "BodoniSvtyTwoSCITCTT-Book",
+		"weight": 0
+	},
+	{
+		"name": "BodoniOrnamentsITCTT",
+		"weight": 0
+	},
+	{
+		"name": "BradleyHandITCTT-Bold",
+		"weight": 0
+	},
+	{
+		"name": "BrushScriptMT",
+		"weight": 1
+	},
+	{
+		"name": "CambayDevanagari-Regular",
+		"weight": 0.246537
+	},
+	{
+		"name": "CambayDevanagari-Oblique",
+		"weight": 0.222961
+	},
+	{
+		"name": "CambayDevanagari-Bold",
+		"weight": 0.226251
+	},
+	{
+		"name": "CambayDevanagari-BoldOblique",
+		"weight": 0.222343
+	},
+	{
+		"name": "Chalkboard",
+		"weight": 0
+	},
+	{
+		"name": "Chalkboard-Bold",
+		"weight": 0
+	},
+	{
+		"name": "ChalkboardSE-Light",
+		"weight": 0
+	},
+	{
+		"name": "ChalkboardSE-Regular",
+		"weight": 0
+	},
+	{
+		"name": "ChalkboardSE-Bold",
+		"weight": 0
+	},
+	{
+		"name": "Chalkduster",
+		"weight": 0
+	},
+	{
+		"name": "Charter-Roman",
+		"weight": 0
+	},
+	{
+		"name": "Charter-Italic",
+		"weight": 0
+	},
+	{
+		"name": "Charter-Bold",
+		"weight": 0
+	},
+	{
+		"name": "Charter-BoldItalic",
+		"weight": 0
+	},
+	{
+		"name": "Charter-Black",
+		"weight": 0
+	},
+	{
+		"name": "Charter-BlackItalic",
+		"weight": 0
+	},
+	{
+		"name": "Cochin",
+		"weight": 0
+	},
+	{
+		"name": "Cochin-Italic",
+		"weight": 0
+	},
+	{
+		"name": "Cochin-Bold",
+		"weight": 0
+	},
+	{
+		"name": "Cochin-BoldItalic",
+		"weight": 0
+	},
+	{
+		"name": "ComicSansMS",
+		"weight": 0
+	},
+	{
+		"name": "ComicSansMS-Bold",
+		"weight": 0
+	},
+	{
+		"name": "Copperplate-Light",
+		"weight": 0
+	},
+	{
+		"name": "Copperplate",
+		"weight": 0
+	},
+	{
+		"name": "Copperplate-Bold",
+		"weight": 0
+	},
+	{
+		"name": "Courier",
+		"weight": 0
+	},
+	{
+		"name": "Courier-Oblique",
+		"weight": 0
+	},
+	{
+		"name": "Courier-Bold",
+		"weight": 0
+	},
+	{
+		"name": "Courier-BoldOblique",
+		"weight": 0
+	},
+	{
+		"name": "CourierNewPSMT",
+		"weight": 0
+	},
+	{
+		"name": "CourierNewPS-ItalicMT",
+		"weight": 0
+	},
+	{
+		"name": "CourierNewPS-BoldMT",
+		"weight": 0
+	},
+	{
+		"name": "CourierNewPS-BoldItalicMT",
+		"weight": 0
+	},
+	{
+		"name": "Didot",
+		"weight": 0
+	},
+	{
+		"name": "Didot-Italic",
+		"weight": 0
+	},
+	{
+		"name": "Didot-Bold",
+		"weight": 0
+	},
+	{
+		"name": "DINAlternate-Bold",
+		"weight": 0
+	},
+	{
+		"name": "DINCondensed-Bold",
+		"weight": 0
+	},
+	{
+		"name": "EuphemiaUCAS",
+		"weight": 0
+	},
+	{
+		"name": "EuphemiaUCAS-Italic",
+		"weight": 0
+	},
+	{
+		"name": "EuphemiaUCAS-Bold",
+		"weight": 0
+	},
+	{
+		"name": "Factoria-Thin",
+		"weight": 0.214079
+	},
+	{
+		"name": "Factoria-ThinItalic",
+		"weight": 0.188545
+	},
+	{
+		"name": "Factoria-Light",
+		"weight": 0.214764
+	},
+	{
+		"name": "Factoria-LightItalic",
+		"weight": 0.165564
+	},
+	{
+		"name": "Factoria-Book",
+		"weight": 0.211591
+	},
+	{
+		"name": "Factoria-BookItalic",
+		"weight": 0.179204
+	},
+	{
+		"name": "Factoria-Medium",
+		"weight": 0.209744
+	},
+	{
+		"name": "Factoria-MediumItalic",
+		"weight": 0.182925
+	},
+	{
+		"name": "Factoria-Demi",
+		"weight": 0.217432
+	},
+	{
+		"name": "Factoria-DemiItalic",
+		"weight": 0.192395
+	},
+	{
+		"name": "Factoria-Bold",
+		"weight": 0.221416
+	},
+	{
+		"name": "Factoria-BoldItalic",
+		"weight": 0.20151
+	},
+	{
+		"name": "Factoria-Black",
+		"weight": 0.227343
+	},
+	{
+		"name": "Factoria-BlackItalic",
+		"weight": 0.191389
+	},
+	{
+		"name": "Factoria-Ultra",
+		"weight": 0.226734
+	},
+	{
+		"name": "Factoria-UltraItalic",
+		"weight": 0.190658
+	},
+	{
+		"name": "FiraSans-Light",
+		"weight": 0
+	},
+	{
+		"name": "FiraSans-Regular",
+		"weight": 0
+	},
+	{
+		"name": "FiraSans-SemiBold",
+		"weight": 0
+	},
+	{
+		"name": "FiraSans-ExtraBold",
+		"weight": 0
+	},
+	{
+		"name": "FiraSans-Heavy",
+		"weight": 0
+	},
+	{
+		"name": "Futura-CondensedMedium",
+		"weight": 0
+	},
+	{
+		"name": "Futura-CondensedExtraBold",
+		"weight": 0
+	},
+	{
+		"name": "Futura-Medium",
+		"weight": 0
+	},
+	{
+		"name": "Futura-MediumItalic",
+		"weight": 0
+	},
+	{
+		"name": "Futura-Bold",
+		"weight": 0
+	},
+	{
+		"name": "Galvji",
+		"weight": 0.237398
+	},
+	{
+		"name": "Galvji-Oblique",
+		"weight": 0.258579
+	},
+	{
+		"name": "Galvji-Bold",
+		"weight": 0.237273
+	},
+	{
+		"name": "Galvji-BoldOblique",
+		"weight": 0.247546
+	},
+	{
+		"name": "Geneva",
+		"weight": 0
+	},
+	{
+		"name": "Georgia",
+		"weight": 0
+	},
+	{
+		"name": "Georgia-Italic",
+		"weight": 0
+	},
+	{
+		"name": "Georgia-Bold",
+		"weight": 0
+	},
+	{
+		"name": "Georgia-BoldItalic",
+		"weight": 0
+	},
+	{
+		"name": "GillSans-Light",
+		"weight": 0
+	},
+	{
+		"name": "GillSans-LightItalic",
+		"weight": 0
+	},
+	{
+		"name": "GillSans",
+		"weight": 0
+	},
+	{
+		"name": "GillSans-Italic",
+		"weight": 0
+	},
+	{
+		"name": "GillSans-SemiBold",
+		"weight": 0
+	},
+	{
+		"name": "GillSans-SemiBoldItalic",
+		"weight": 0
+	},
+	{
+		"name": "GillSans-Bold",
+		"weight": 0
+	},
+	{
+		"name": "GillSans-BoldItalic",
+		"weight": 0
+	},
+	{
+		"name": "GillSans-UltraBold",
+		"weight": 0
+	},
+	{
+		"name": "Helvetica-Light",
+		"weight": 0
+	},
+	{
+		"name": "Helvetica-LightOblique",
+		"weight": 0
+	},
+	{
+		"name": "Helvetica",
+		"weight": 0
+	},
+	{
+		"name": "Helvetica-Oblique",
+		"weight": 0
+	},
+	{
+		"name": "Helvetica-Bold",
+		"weight": 0
+	},
+	{
+		"name": "Helvetica-BoldOblique",
+		"weight": 0
+	},
+	{
+		"name": "HelveticaNeue-CondensedBold",
+		"weight": 0
+	},
+	{
+		"name": "HelveticaNeue-CondensedBlack",
+		"weight": 0
+	},
+	{
+		"name": "HelveticaNeue-UltraLight",
+		"weight": 0
+	},
+	{
+		"name": "HelveticaNeue-UltraLightItalic",
+		"weight": 0
+	},
+	{
+		"name": "HelveticaNeue-Thin",
+		"weight": 0
+	},
+	{
+		"name": "HelveticaNeue-ThinItalic",
+		"weight": 0
+	},
+	{
+		"name": "HelveticaNeue-Light",
+		"weight": 0
+	},
+	{
+		"name": "HelveticaNeue-LightItalic",
+		"weight": 0
+	},
+	{
+		"name": "HelveticaNeue",
+		"weight": 0
+	},
+	{
+		"name": "HelveticaNeue-Italic",
+		"weight": 0
+	},
+	{
+		"name": "HelveticaNeue-Medium",
+		"weight": 0
+	},
+	{
+		"name": "HelveticaNeue-MediumItalic",
+		"weight": 0
+	},
+	{
+		"name": "HelveticaNeue-Bold",
+		"weight": 0
+	},
+	{
+		"name": "HelveticaNeue-BoldItalic",
+		"weight": 0
+	},
+	{
+		"name": "Herculanum",
+		"weight": 0
+	},
+	{
+		"name": "HoeflerText-Ornaments",
+		"weight": 0
+	},
+	{
+		"name": "HoeflerText-Regular",
+		"weight": 0
+	},
+	{
+		"name": "HoeflerText-Italic",
+		"weight": 0
+	},
+	{
+		"name": "HoeflerText-Black",
+		"weight": 0
+	},
+	{
+		"name": "HoeflerText-BlackItalic",
+		"weight": 0
+	},
+	{
+		"name": "Impact",
+		"weight": 0
+	},
+	{
+		"name": "IowanOldStyle-Roman",
+		"weight": 0
+	},
+	{
+		"name": "IowanOldStyle-Titling",
+		"weight": 0
+	},
+	{
+		"name": "IowanOldStyle-Italic",
+		"weight": 0
+	},
+	{
+		"name": "IowanOldStyle-Bold",
+		"weight": 0
+	},
+	{
+		"name": "IowanOldStyle-BoldItalic",
+		"weight": 0
+	},
+	{
+		"name": "IowanOldStyle-Black",
+		"weight": 0
+	},
+	{
+		"name": "IowanOldStyle-BlackItalic",
+		"weight": 0
+	},
+	{
+		"name": "Kailasa-Bold",
+		"weight": 0
+	},
+	{
+		"name": "Kailasa",
+		"weight": 0
+	},
+	{
+		"name": "Kefa-Regular",
+		"weight": 0
+	},
+	{
+		"name": "Kefa-Bold",
+		"weight": 0
+	},
+	{
+		"name": "KohinoorBangla-Light",
+		"weight": 0.234942
+	},
+	{
+		"name": "KohinoorBangla-Regular",
+		"weight": 0.240175
+	},
+	{
+		"name": "KohinoorBangla-Medium",
+		"weight": 0.24274
+	},
+	{
+		"name": "KohinoorBangla-Semibold",
+		"weight": 0.227769
+	},
+	{
+		"name": "KohinoorBangla-Bold",
+		"weight": 0.226867
+	},
+	{
+		"name": "KohinoorDevanagari-Light",
+		"weight": 0
+	},
+	{
+		"name": "KohinoorDevanagari-Regular",
+		"weight": 0
+	},
+	{
+		"name": "KohinoorDevanagari-Medium",
+		"weight": 0
+	},
+	{
+		"name": "KohinoorDevanagari-Semibold",
+		"weight": 0
+	},
+	{
+		"name": "KohinoorDevanagari-Bold",
+		"weight": 0
+	},
+	{
+		"name": "KohinoorTelugu-Light",
+		"weight": 0.235381
+	},
+	{
+		"name": "KohinoorTelugu-Regular",
+		"weight": 0.238778
+	},
+	{
+		"name": "KohinoorTelugu-Medium",
+		"weight": 0.2411
+	},
+	{
+		"name": "KohinoorTelugu-Semibold",
+		"weight": 0.227428
+	},
+	{
+		"name": "KohinoorTelugu-Bold",
+		"weight": 0.22756
+	},
+	{
+		"name": "Kokonor",
+		"weight": 0
+	},
+	{
+		"name": "Krungthep",
+		"weight": 0
+	},
+	{
+		"name": "Lato-Regular",
+		"weight": 0
+	},
+	{
+		"name": "Lato-Bold",
+		"weight": 0
+	},
+	{
+		"name": "LeagueGothic-CondensedItalic",
+		"weight": 0
+	},
+	{
+		"name": "LeagueGothic-CondensedRegular",
+		"weight": 0
+	},
+	{
+		"name": "LeagueGothic-Italic",
+		"weight": 0
+	},
+	{
+		"name": "LeagueGothic-Regular",
+		"weight": 0
+	},
+	{
+		"name": "LucidaGrande",
+		"weight": 0
+	},
+	{
+		"name": "LucidaGrande-Bold",
+		"weight": 0
+	},
+	{
+		"name": "Luminari-Regular",
+		"weight": 1
+	},
+	{
+		"name": "Maku-Regular",
+		"weight": 0.335203
+	},
+	{
+		"name": "Maku-Bold",
+		"weight": 0.319738
+	},
+	{
+		"name": "Marion-Regular",
+		"weight": 0
+	},
+	{
+		"name": "Marion-Italic",
+		"weight": 0
+	},
+	{
+		"name": "Marion-Bold",
+		"weight": 0
+	},
+	{
+		"name": "MarkerFelt-Thin",
+		"weight": 0
+	},
+	{
+		"name": "MarkerFelt-Wide",
+		"weight": 0
+	},
+	{
+		"name": "Menlo-Regular",
+		"weight": 0
+	},
+	{
+		"name": "Menlo-Italic",
+		"weight": 0
+	},
+	{
+		"name": "Menlo-Bold",
+		"weight": 0
+	},
+	{
+		"name": "Menlo-BoldItalic",
+		"weight": 0
+	},
+	{
+		"name": "MicrosoftSansSerif",
+		"weight": 0
+	},
+	{
+		"name": "MinionConceptRoman-Regular",
+		"weight": 0
+	},
+	{
+		"name": "MinionConceptRoman-Medium",
+		"weight": 0
+	},
+	{
+		"name": "MinionConceptRoman-Semibold",
+		"weight": 0
+	},
+	{
+		"name": "MinionConceptRoman-Bold",
+		"weight": 0
+	},
+	{
+		"name": "MinionConceptRoman-Display",
+		"weight": 0
+	},
+	{
+		"name": "MinionConceptRoman-DisplayMedium",
+		"weight": 0
+	},
+	{
+		"name": "MinionConceptRoman-DisplaySemibold",
+		"weight": 0
+	},
+	{
+		"name": "MinionConceptRoman-DisplayBold",
+		"weight": 0
+	},
+	{
+		"name": "MinionConceptItalic-Italic",
+		"weight": 0
+	},
+	{
+		"name": "MinionConceptItalic-MediumItalic",
+		"weight": 0
+	},
+	{
+		"name": "MinionConceptItalic-SemiboldItalic",
+		"weight": 0
+	},
+	{
+		"name": "MinionConceptItalic-BoldItalic",
+		"weight": 0
+	},
+	{
+		"name": "MinionConceptItalic-DisplayItalic",
+		"weight": 0
+	},
+	{
+		"name": "MinionConceptItalic-DisplayMediumItalic",
+		"weight": 0
+	},
+	{
+		"name": "MinionConceptItalic-DisplaySemiboldItalic",
+		"weight": 0
+	},
+	{
+		"name": "MinionConceptItalic-DisplayBoldItalic",
+		"weight": 0
+	},
+	{
+		"name": "Modak",
+		"weight": 0
+	},
+	{
+		"name": "Monaco",
+		"weight": 0
+	},
+	{
+		"name": "Mshtakan",
+		"weight": 0
+	},
+	{
+		"name": "MshtakanOblique",
+		"weight": 0
+	},
+	{
+		"name": "MshtakanBold",
+		"weight": 0
+	},
+	{
+		"name": "MshtakanBoldOblique",
+		"weight": 0
+	},
+	{
+		"name": "Mukta-ExtraLight",
+		"weight": 0.232225
+	},
+	{
+		"name": "Mukta-Light",
+		"weight": 0.233421
+	},
+	{
+		"name": "Mukta-Regular",
+		"weight": 0.232396
+	},
+	{
+		"name": "Mukta-Medium",
+		"weight": 0.260288
+	},
+	{
+		"name": "Mukta-SemiBold",
+		"weight": 0.258773
+	},
+	{
+		"name": "Mukta-Bold",
+		"weight": 0.262683
+	},
+	{
+		"name": "Mukta-ExtraBold",
+		"weight": 0.26184
+	},
+	{
+		"name": "MuktaMahee-ExtraLight",
+		"weight": 0.232225
+	},
+	{
+		"name": "MuktaMahee-Light",
+		"weight": 0.233421
+	},
+	{
+		"name": "MuktaMahee-Regular",
+		"weight": 0.232396
+	},
+	{
+		"name": "MuktaMahee-Medium",
+		"weight": 0.260288
+	},
+	{
+		"name": "MuktaMahee-SemiBold",
+		"weight": 0.258773
+	},
+	{
+		"name": "MuktaMahee-Bold",
+		"weight": 0.260711
+	},
+	{
+		"name": "MuktaMahee-ExtraBold",
+		"weight": 0.26184
+	},
+	{
+		"name": "MuktaMalar-ExtraLight",
+		"weight": 0.232225
+	},
+	{
+		"name": "MuktaMalar-Light",
+		"weight": 0.233421
+	},
+	{
+		"name": "MuktaMalar-Regular",
+		"weight": 0.232396
+	},
+	{
+		"name": "MuktaMalar-Medium",
+		"weight": 0.260288
+	},
+	{
+		"name": "MuktaMalar-SemiBold",
+		"weight": 0.25877
+	},
+	{
+		"name": "MuktaMalar-Bold",
+		"weight": 0.262683
+	},
+	{
+		"name": "MuktaMalar-ExtraBold",
+		"weight": 0.26184
+	},
+	{
+		"name": "MuktaVaani-ExtraLight",
+		"weight": 0.232225
+	},
+	{
+		"name": "MuktaVaani-Light",
+		"weight": 0.233421
+	},
+	{
+		"name": "MuktaVaani-Regular",
+		"weight": 0.232396
+	},
+	{
+		"name": "MuktaVaani-Medium",
+		"weight": 0.260288
+	},
+	{
+		"name": "MuktaVaani-SemiBold",
+		"weight": 0.258773
+	},
+	{
+		"name": "MuktaVaani-Bold",
+		"weight": 0.262683
+	},
+	{
+		"name": "MuktaVaani-ExtraBold",
+		"weight": 0.26184
+	},
+	{
+		"name": "MuseoSlab-900",
+		"weight": 0
+	},
+	{
+		"name": "MyriadPro-Regular",
+		"weight": 0
+	},
+	{
+		"name": "MyriadPro-It",
+		"weight": 0
+	},
+	{
+		"name": "MyriadPro-Bold",
+		"weight": 0
+	},
+	{
+		"name": "MyriadPro-BoldIt",
+		"weight": 0
+	},
+	{
+		"name": "MyriadConceptRoman-LightCondensed",
+		"weight": 0
+	},
+	{
+		"name": "MyriadConceptRoman-LightSemiCondensed",
+		"weight": 0
+	},
+	{
+		"name": "MyriadConceptRoman-Light",
+		"weight": 0
+	},
+	{
+		"name": "MyriadConceptRoman-LightSemiExtended",
+		"weight": 0
+	},
+	{
+		"name": "MyriadConceptRoman-Condensed",
+		"weight": 0
+	},
+	{
+		"name": "MyriadConceptRoman-SemiCondensed",
+		"weight": 0
+	},
+	{
+		"name": "MyriadConceptRoman-Regular",
+		"weight": 0
+	},
+	{
+		"name": "MyriadConceptRoman-SemiExtended",
+		"weight": 0
+	},
+	{
+		"name": "MyriadConceptRoman-SemiboldCondensed",
+		"weight": 0
+	},
+	{
+		"name": "MyriadConceptRoman-SemiboldSemiCondensed",
+		"weight": 0
+	},
+	{
+		"name": "MyriadConceptRoman-Semibold",
+		"weight": 0
+	},
+	{
+		"name": "MyriadConceptRoman-SemiboldSemiExtended",
+		"weight": 0
+	},
+	{
+		"name": "MyriadConceptRoman-BoldCondensed",
+		"weight": 0
+	},
+	{
+		"name": "MyriadConceptRoman-BoldSemiCondensed",
+		"weight": 0
+	},
+	{
+		"name": "MyriadConceptRoman-Bold",
+		"weight": 0
+	},
+	{
+		"name": "MyriadConceptRoman-BoldSemiExtended",
+		"weight": 0
+	},
+	{
+		"name": "MyriadConceptRoman-BlackCondensed",
+		"weight": 0
+	},
+	{
+		"name": "MyriadConceptRoman-BlackSemiCondensed",
+		"weight": 0
+	},
+	{
+		"name": "MyriadConceptRoman-Black",
+		"weight": 0
+	},
+	{
+		"name": "MyriadConceptRoman-BlackSemiExtended",
+		"weight": 0
+	},
+	{
+		"name": "MyriadConceptItalic-LightCondensedItalic",
+		"weight": 0
+	},
+	{
+		"name": "MyriadConceptItalic-LightSemiCondensedItalic",
+		"weight": 0
+	},
+	{
+		"name": "MyriadConceptItalic-LightItalic",
+		"weight": 0
+	},
+	{
+		"name": "MyriadConceptItalic-LightSemiExtendedItalic",
+		"weight": 0
+	},
+	{
+		"name": "MyriadConceptItalic-CondensedItalic",
+		"weight": 0
+	},
+	{
+		"name": "MyriadConceptItalic-SemiCondensedItalic",
+		"weight": 0
+	},
+	{
+		"name": "MyriadConceptItalic-Italic",
+		"weight": 0
+	},
+	{
+		"name": "MyriadConceptItalic-SemiExtendedItalic",
+		"weight": 0
+	},
+	{
+		"name": "MyriadConceptItalic-SemiboldCondensedItalic",
+		"weight": 0
+	},
+	{
+		"name": "MyriadConceptItalic-SemiboldSemiCondensedItalic",
+		"weight": 0
+	},
+	{
+		"name": "MyriadConceptItalic-SemiboldItalic",
+		"weight": 0
+	},
+	{
+		"name": "MyriadConceptItalic-SemiboldSemiExtendedItalic",
+		"weight": 0
+	},
+	{
+		"name": "MyriadConceptItalic-BoldCondensedItalic",
+		"weight": 0
+	},
+	{
+		"name": "MyriadConceptItalic-BoldSemiCondensedItalic",
+		"weight": 0
+	},
+	{
+		"name": "MyriadConceptItalic-BoldItalic",
+		"weight": 0
+	},
+	{
+		"name": "MyriadConceptItalic-BoldSemiExtendedItalic",
+		"weight": 0
+	},
+	{
+		"name": "MyriadConceptItalic-BlackCondensedItalic",
+		"weight": 0
+	},
+	{
+		"name": "MyriadConceptItalic-BlackSemiCondensedItalic",
+		"weight": 0
+	},
+	{
+		"name": "MyriadConceptItalic-BlackItalic",
+		"weight": 0
+	},
+	{
+		"name": "MyriadConceptItalic-BlackSemiExtendedItalic",
+		"weight": 0
+	},
+	{
+		"name": "Noteworthy-Light",
+		"weight": 0
+	},
+	{
+		"name": "Noteworthy-Bold",
+		"weight": 0
+	},
+	{
+		"name": "NotoSansArmenian-Thin",
+		"weight": 0
+	},
+	{
+		"name": "NotoSansArmenian-ExtraLight",
+		"weight": 0
+	},
+	{
+		"name": "NotoSansArmenian-Light",
+		"weight": 0
+	},
+	{
+		"name": "NotoSansArmenian-Regular",
+		"weight": 0
+	},
+	{
+		"name": "NotoSansArmenian-Medium",
+		"weight": 0
+	},
+	{
+		"name": "NotoSansArmenian-SemiBold",
+		"weight": 0
+	},
+	{
+		"name": "NotoSansArmenian-Bold",
+		"weight": 0
+	},
+	{
+		"name": "NotoSansArmenian-ExtraBold",
+		"weight": 0
+	},
+	{
+		"name": "NotoSansArmenian-Black",
+		"weight": 0
+	},
+	{
+		"name": "NotoSansAvestan-Regular",
+		"weight": 0
+	},
+	{
+		"name": "NotoSansBamum-Regular",
+		"weight": 0
+	},
+	{
+		"name": "NotoSansBatak-Regular",
+		"weight": 0
+	},
+	{
+		"name": "NotoSansBrahmi-Regular",
+		"weight": 0
+	},
+	{
+		"name": "NotoSansBuginese-Regular",
+		"weight": 0
+	},
+	{
+		"name": "NotoSansBuhid-Regular",
+		"weight": 0
+	},
+	{
+		"name": "NotoSansCarian-Regular",
+		"weight": 0
+	},
+	{
+		"name": "NotoSansChakma-Regular",
+		"weight": 0
+	},
+	{
+		"name": "NotoSansCham-Regular",
+		"weight": 0
+	},
+	{
+		"name": "NotoSansCoptic-Regular",
+		"weight": 0
+	},
+	{
+		"name": "NotoSansCuneiform-Regular",
+		"weight": 0
+	},
+	{
+		"name": "NotoSansCypriot-Regular",
+		"weight": 0
+	},
+	{
+		"name": "NotoSansEgyptianHieroglyphs-Regular",
+		"weight": 0
+	},
+	{
+		"name": "NotoSansGlagolitic-Regular",
+		"weight": 0
+	},
+	{
+		"name": "NotoSansGothic-Regular",
+		"weight": 0
+	},
+	{
+		"name": "NotoSansHanunoo-Regular",
+		"weight": 0
+	},
+	{
+		"name": "NotoSansImperialAramaic-Regular",
+		"weight": 0
+	},
+	{
+		"name": "NotoSansInscriptionalPahlavi-Regular",
+		"weight": 0
+	},
+	{
+		"name": "NotoSansInscriptionalParthian-Regular",
+		"weight": 0
+	},
+	{
+		"name": "NotoSansJavanese-Regular",
+		"weight": 0
+	},
+	{
+		"name": "NotoSansKaithi-Regular",
+		"weight": 0
+	},
+	{
+		"name": "NotoSansKayahLi-Regular",
+		"weight": 0
+	},
+	{
+		"name": "NotoSansKharoshthi-Regular",
+		"weight": 0
+	},
+	{
+		"name": "NotoSansLepcha-Regular",
+		"weight": 0
+	},
+	{
+		"name": "NotoSansLimbu-Regular",
+		"weight": 0
+	},
+	{
+		"name": "NotoSansLinearB-Regular",
+		"weight": 0
+	},
+	{
+		"name": "NotoSansLisu-Regular",
+		"weight": 0
+	},
+	{
+		"name": "NotoSansLycian-Regular",
+		"weight": 0
+	},
+	{
+		"name": "NotoSansLydian-Regular",
+		"weight": 0
+	},
+	{
+		"name": "NotoSansMandaic-Regular",
+		"weight": 0
+	},
+	{
+		"name": "NotoSansMeeteiMayek-Regular",
+		"weight": 0
+	},
+	{
+		"name": "NotoSansMongolian",
+		"weight": 0
+	},
+	{
+		"name": "NotoSansNewTaiLue-Regular",
+		"weight": 0
+	},
+	{
+		"name": "NotoSansNKo-Regular",
+		"weight": 0
+	},
+	{
+		"name": "NotoSansOgham-Regular",
+		"weight": 0
+	},
+	{
+		"name": "NotoSansOlChiki-Regular",
+		"weight": 0
+	},
+	{
+		"name": "NotoSansOldItalic-Regular",
+		"weight": 0
+	},
+	{
+		"name": "NotoSansOldPersian-Regular",
+		"weight": 0
+	},
+	{
+		"name": "NotoSansOldSouthArabian-Regular",
+		"weight": 0
+	},
+	{
+		"name": "NotoSansOldTurkic-Regular",
+		"weight": 0
+	},
+	{
+		"name": "NotoSansOsmanya-Regular",
+		"weight": 0
+	},
+	{
+		"name": "NotoSansPhagsPa-Regular",
+		"weight": 0
+	},
+	{
+		"name": "NotoSansPhoenician-Regular",
+		"weight": 0
+	},
+	{
+		"name": "NotoSansRejang-Regular",
+		"weight": 0
+	},
+	{
+		"name": "NotoSansRunic-Regular",
+		"weight": 0
+	},
+	{
+		"name": "NotoSansSamaritan-Regular",
+		"weight": 0
+	},
+	{
+		"name": "NotoSansSaurashtra-Regular",
+		"weight": 0
+	},
+	{
+		"name": "NotoSansShavian-Regular",
+		"weight": 0
+	},
+	{
+		"name": "NotoSansSundanese-Regular",
+		"weight": 0
+	},
+	{
+		"name": "NotoSansSylotiNagri-Regular",
+		"weight": 0
+	},
+	{
+		"name": "NotoSansSyriac-Regular",
+		"weight": 0
+	},
+	{
+		"name": "NotoSansTagalog-Regular",
+		"weight": 0
+	},
+	{
+		"name": "NotoSansTagbanwa-Regular",
+		"weight": 0
+	},
+	{
+		"name": "NotoSansTaiLe-Regular",
+		"weight": 0
+	},
+	{
+		"name": "NotoSansTaiTham",
+		"weight": 0
+	},
+	{
+		"name": "NotoSansTaiViet-Regular",
+		"weight": 0
+	},
+	{
+		"name": "NotoSansThaana-Regular",
+		"weight": 0
+	},
+	{
+		"name": "NotoSansTifinagh-Regular",
+		"weight": 0
+	},
+	{
+		"name": "NotoSansUgaritic-Regular",
+		"weight": 0
+	},
+	{
+		"name": "NotoSansVai-Regular",
+		"weight": 0
+	},
+	{
+		"name": "NotoSerifBalinese-Regular",
+		"weight": 0
+	},
+	{
+		"name": "OpenSans",
+		"weight": 0
+	},
+	{
+		"name": "OpenSans-Bold",
+		"weight": 0
+	},
+	{
+		"name": "Optima-Regular",
+		"weight": 0
+	},
+	{
+		"name": "Optima-Italic",
+		"weight": 0
+	},
+	{
+		"name": "Optima-Bold",
+		"weight": 0
+	},
+	{
+		"name": "Optima-BoldItalic",
+		"weight": 0
+	},
+	{
+		"name": "Optima-ExtraBlack",
+		"weight": 0
+	},
+	{
+		"name": "Orbitron-Bold",
+		"weight": 0
+	},
+	{
+		"name": "Palatino-Roman",
+		"weight": 0
+	},
+	{
+		"name": "Palatino-Italic",
+		"weight": 0
+	},
+	{
+		"name": "Palatino-Bold",
+		"weight": 0
+	},
+	{
+		"name": "Palatino-BoldItalic",
+		"weight": 0
+	},
+	{
+		"name": "Papyrus-Condensed",
+		"weight": 0
+	},
+	{
+		"name": "Papyrus",
+		"weight": 0
+	},
+	{
+		"name": "Phosphate-Inline",
+		"weight": 0
+	},
+	{
+		"name": "Phosphate-Solid",
+		"weight": 0
+	},
+	{
+		"name": "PlantagenetCherokee",
+		"weight": 0
+	},
+	{
+		"name": "PTMono-Regular",
+		"weight": 0
+	},
+	{
+		"name": "PTMono-Bold",
+		"weight": 0
+	},
+	{
+		"name": "PTSans-Regular",
+		"weight": 0
+	},
+	{
+		"name": "PTSans-Italic",
+		"weight": 0
+	},
+	{
+		"name": "PTSans-Bold",
+		"weight": 0
+	},
+	{
+		"name": "PTSans-BoldItalic",
+		"weight": 0
+	},
+	{
+		"name": "PTSans-Caption",
+		"weight": 0
+	},
+	{
+		"name": "PTSans-CaptionBold",
+		"weight": 0
+	},
+	{
+		"name": "PTSans-Narrow",
+		"weight": 0
+	},
+	{
+		"name": "PTSans-NarrowBold",
+		"weight": 0
+	},
+	{
+		"name": "PTSerif-Regular",
+		"weight": 0
+	},
+	{
+		"name": "PTSerif-Italic",
+		"weight": 0
+	},
+	{
+		"name": "PTSerif-Bold",
+		"weight": 0
+	},
+	{
+		"name": "PTSerif-BoldItalic",
+		"weight": 0
+	},
+	{
+		"name": "PTSerif-Caption",
+		"weight": 0
+	},
+	{
+		"name": "PTSerif-CaptionItalic",
+		"weight": 0
+	},
+	{
+		"name": "Raleway",
+		"weight": 0
+	},
+	{
+		"name": "Raleway-Medium",
+		"weight": 0
+	},
+	{
+		"name": "Raleway-Bold",
+		"weight": 0
+	},
+	{
+		"name": "Roboto-Regular",
+		"weight": 0
+	},
+	{
+		"name": "Roboto-Bold",
+		"weight": 0
+	},
+	{
+		"name": "RobotoMono-Light",
+		"weight": 0
+	},
+	{
+		"name": "RobotoMono-Bold",
+		"weight": 0
+	},
+	{
+		"name": "Rockwell-Regular",
+		"weight": 0
+	},
+	{
+		"name": "Rockwell-Italic",
+		"weight": 0
+	},
+	{
+		"name": "Rockwell-Bold",
+		"weight": 0
+	},
+	{
+		"name": "Rockwell-BoldItalic",
+		"weight": 0
+	},
+	{
+		"name": "Sathu",
+		"weight": 0
+	},
+	{
+		"name": "SavoyeLetPlain",
+		"weight": 1
+	},
+	{
+		"name": "Seravek-ExtraLight",
+		"weight": 0
+	},
+	{
+		"name": "Seravek-ExtraLightItalic",
+		"weight": 0
+	},
+	{
+		"name": "Seravek-Light",
+		"weight": 0
+	},
+	{
+		"name": "Seravek-LightItalic",
+		"weight": 0
+	},
+	{
+		"name": "Seravek",
+		"weight": 0
+	},
+	{
+		"name": "Seravek-Italic",
+		"weight": 0
+	},
+	{
+		"name": "Seravek-Medium",
+		"weight": 0
+	},
+	{
+		"name": "Seravek-MediumItalic",
+		"weight": 0
+	},
+	{
+		"name": "Seravek-Bold",
+		"weight": 0
+	},
+	{
+		"name": "Seravek-BoldItalic",
+		"weight": 0
+	},
+	{
+		"name": "Shobhika-Regular",
+		"weight": 0.244866
+	},
+	{
+		"name": "Shobhika-Bold",
+		"weight": 0.25312
+	},
+	{
+		"name": "ShreeDev0714",
+		"weight": 0
+	},
+	{
+		"name": "ShreeDev0714-Italic",
+		"weight": 0
+	},
+	{
+		"name": "ShreeDev0714-Bold",
+		"weight": 0
+	},
+	{
+		"name": "ShreeDev0714-BoldItalic",
+		"weight": 0
+	},
+	{
+		"name": "SignPainter-HouseScript",
+		"weight": 1
+	},
+	{
+		"name": "SignPainter-HouseScriptSemibold",
+		"weight": 1
+	},
+	{
+		"name": "Silom",
+		"weight": 0
+	},
+	{
+		"name": "Skia-Black",
+		"weight": 0
+	},
+	{
+		"name": "Skia-Extended",
+		"weight": 0
+	},
+	{
+		"name": "Skia-Condensed",
+		"weight": 0
+	},
+	{
+		"name": "Skia-Light",
+		"weight": 0
+	},
+	{
+		"name": "Skia-Regular",
+		"weight": 0
+	},
+	{
+		"name": "Skia-BlackExtended",
+		"weight": 0
+	},
+	{
+		"name": "Skia-LightExtended",
+		"weight": 0
+	},
+	{
+		"name": "Skia-BlackCondensed",
+		"weight": 0
+	},
+	{
+		"name": "Skia-LightCondensed",
+		"weight": 0
+	},
+	{
+		"name": "Skia-Bold",
+		"weight": 0
+	},
+	{
+		"name": "SnellRoundhand",
+		"weight": 1
+	},
+	{
+		"name": "SnellRoundhand-Bold",
+		"weight": 1
+	},
+	{
+		"name": "SnellRoundhand-Black",
+		"weight": 1
+	},
+	{
+		"name": "SourceCodeRoman-ExtraLight",
+		"weight": 0.168552
+	},
+	{
+		"name": "SourceCodeRoman-Light",
+		"weight": 0.175211
+	},
+	{
+		"name": "SourceCodeRoman-Regular",
+		"weight": 0.172937
+	},
+	{
+		"name": "SourceCodeRoman-Medium",
+		"weight": 0.168475
+	},
+	{
+		"name": "SourceCodeRoman-Semibold",
+		"weight": 0.165162
+	},
+	{
+		"name": "SourceCodeRoman-Bold",
+		"weight": 0.160114
+	},
+	{
+		"name": "SourceCodeRoman-Black",
+		"weight": 0.163805
+	},
+	{
+		"name": "SourceCodeItalic-ExtraLightItalic",
+		"weight": 0.187115
+	},
+	{
+		"name": "SourceCodeItalic-LightItalic",
+		"weight": 0.186271
+	},
+	{
+		"name": "SourceCodeItalic-Italic",
+		"weight": 0.183542
+	},
+	{
+		"name": "SourceCodeItalic-MediumItalic",
+		"weight": 0.187123
+	},
+	{
+		"name": "SourceCodeItalic-SemiboldItalic",
+		"weight": 0.183417
+	},
+	{
+		"name": "SourceCodeItalic-BoldItalic",
+		"weight": 0.18022
+	},
+	{
+		"name": "SourceCodeItalic-BlackItalic",
+		"weight": 0.177691
+	},
+	{
+		"name": "SourceSansRoman-ExtraLight",
+		"weight": 0
+	},
+	{
+		"name": "SourceSansRoman-Light",
+		"weight": 0
+	},
+	{
+		"name": "SourceSansRoman-Regular",
+		"weight": 0
+	},
+	{
+		"name": "SourceSansRoman-Semibold",
+		"weight": 0
+	},
+	{
+		"name": "SourceSansRoman-Bold",
+		"weight": 0
+	},
+	{
+		"name": "SourceSansRoman-Black",
+		"weight": 0
+	},
+	{
+		"name": "SourceSansItalic-ExtraLightItalic",
+		"weight": 0
+	},
+	{
+		"name": "SourceSansItalic-LightItalic",
+		"weight": 0
+	},
+	{
+		"name": "SourceSansItalic-Italic",
+		"weight": 0
+	},
+	{
+		"name": "SourceSansItalic-SemiboldItalic",
+		"weight": 0
+	},
+	{
+		"name": "SourceSansItalic-BoldItalic",
+		"weight": 0
+	},
+	{
+		"name": "SourceSansItalic-BlackItalic",
+		"weight": 0
+	},
+	{
+		"name": "SourceSerifRoman-ExtraLight",
+		"weight": 0
+	},
+	{
+		"name": "SourceSerifRoman-Light",
+		"weight": 0
+	},
+	{
+		"name": "SourceSerifRoman-Regular",
+		"weight": 0
+	},
+	{
+		"name": "SourceSerifRoman-Semibold",
+		"weight": 0
+	},
+	{
+		"name": "SourceSerifRoman-Bold",
+		"weight": 0
+	},
+	{
+		"name": "SourceSerifRoman-Black",
+		"weight": 0
+	},
+	{
+		"name": "STIXGeneral-Regular",
+		"weight": 0
+	},
+	{
+		"name": "STIXGeneral-Italic",
+		"weight": 0
+	},
+	{
+		"name": "STIXGeneral-Bold",
+		"weight": 0
+	},
+	{
+		"name": "STIXGeneral-BoldItalic",
+		"weight": 0
+	},
+	{
+		"name": "STIXIntegralsD-Regular",
+		"weight": 0
+	},
+	{
+		"name": "STIXIntegralsD-Bold",
+		"weight": 0
+	},
+	{
+		"name": "STIXIntegralsSm-Regular",
+		"weight": 0
+	},
+	{
+		"name": "STIXIntegralsSm-Bold",
+		"weight": 0
+	},
+	{
+		"name": "STIXIntegralsUp-Regular",
+		"weight": 0
+	},
+	{
+		"name": "STIXIntegralsUp-Bold",
+		"weight": 0
+	},
+	{
+		"name": "STIXIntegralsUpD-Regular",
+		"weight": 0
+	},
+	{
+		"name": "STIXIntegralsUpD-Bold",
+		"weight": 0
+	},
+	{
+		"name": "STIXIntegralsUpSm-Regular",
+		"weight": 0
+	},
+	{
+		"name": "STIXIntegralsUpSm-Bold",
+		"weight": 0
+	},
+	{
+		"name": "STIXNonUnicode-Regular",
+		"weight": 0
+	},
+	{
+		"name": "STIXNonUnicode-Italic",
+		"weight": 0
+	},
+	{
+		"name": "STIXNonUnicode-Bold",
+		"weight": 0
+	},
+	{
+		"name": "STIXNonUnicode-BoldItalic",
+		"weight": 0
+	},
+	{
+		"name": "STIXSizeFiveSym-Regular",
+		"weight": 0
+	},
+	{
+		"name": "STIXSizeFourSym-Regular",
+		"weight": 0
+	},
+	{
+		"name": "STIXSizeFourSym-Bold",
+		"weight": 0
+	},
+	{
+		"name": "STIXSizeOneSym-Regular",
+		"weight": 0
+	},
+	{
+		"name": "STIXSizeOneSym-Bold",
+		"weight": 0
+	},
+	{
+		"name": "STIXSizeThreeSym-Regular",
+		"weight": 0
+	},
+	{
+		"name": "STIXSizeThreeSym-Bold",
+		"weight": 0
+	},
+	{
+		"name": "STIXSizeTwoSym-Regular",
+		"weight": 0
+	},
+	{
+		"name": "STIXSizeTwoSym-Bold",
+		"weight": 0
+	},
+	{
+		"name": "STIXVariants-Regular",
+		"weight": 0
+	},
+	{
+		"name": "STIXVariants-Bold",
+		"weight": 0
+	},
+	{
+		"name": "SukhumvitSet-Thin",
+		"weight": 0
+	},
+	{
+		"name": "SukhumvitSet-Light",
+		"weight": 0
+	},
+	{
+		"name": "SukhumvitSet-Text",
+		"weight": 0
+	},
+	{
+		"name": "SukhumvitSet-Medium",
+		"weight": 0
+	},
+	{
+		"name": "SukhumvitSet-SemiBold",
+		"weight": 0
+	},
+	{
+		"name": "SukhumvitSet-Bold",
+		"weight": 0
+	},
+	{
+		"name": "Superclarendon-Light",
+		"weight": 0
+	},
+	{
+		"name": "Superclarendon-LightItalic",
+		"weight": 0
+	},
+	{
+		"name": "Superclarendon-Regular",
+		"weight": 0
+	},
+	{
+		"name": "Superclarendon-Italic",
+		"weight": 0
+	},
+	{
+		"name": "Superclarendon-Bold",
+		"weight": 0
+	},
+	{
+		"name": "Superclarendon-BoldItalic",
+		"weight": 0
+	},
+	{
+		"name": "Superclarendon-Black",
+		"weight": 0
+	},
+	{
+		"name": "Superclarendon-BlackItalic",
+		"weight": 0
+	},
+	{
+		"name": "Symbol",
+		"weight": 0
+	},
+	{
+		"name": "Tahoma",
+		"weight": 0
+	},
+	{
+		"name": "Tahoma-Bold",
+		"weight": 0
+	},
+	{
+		"name": "Thonburi-Light",
+		"weight": 0
+	},
+	{
+		"name": "Thonburi",
+		"weight": 0
+	},
+	{
+		"name": "Thonburi-Bold",
+		"weight": 0
+	},
+	{
+		"name": "Times-Roman",
+		"weight": 0
+	},
+	{
+		"name": "Times-Italic",
+		"weight": 0
+	},
+	{
+		"name": "Times-Bold",
+		"weight": 0
+	},
+	{
+		"name": "Times-BoldItalic",
+		"weight": 0
+	},
+	{
+		"name": "TimesNewRomanPSMT",
+		"weight": 0
+	},
+	{
+		"name": "TimesNewRomanPS-ItalicMT",
+		"weight": 0
+	},
+	{
+		"name": "TimesNewRomanPS-BoldMT",
+		"weight": 0
+	},
+	{
+		"name": "TimesNewRomanPS-BoldItalicMT",
+		"weight": 0
+	},
+	{
+		"name": "TrajanColor-Concept",
+		"weight": 0
+	},
+	{
+		"name": "Trattatello",
+		"weight": 1
+	},
+	{
+		"name": "TrebuchetMS",
+		"weight": 0
+	},
+	{
+		"name": "TrebuchetMS-Italic",
+		"weight": 0
+	},
+	{
+		"name": "TrebuchetMS-Bold",
+		"weight": 0
+	},
+	{
+		"name": "Trebuchet-BoldItalic",
+		"weight": 0
+	},
+	{
+		"name": "UtopiaStd-BlackHeadline",
+		"weight": 0
+	},
+	{
+		"name": "Verdana",
+		"weight": 0
+	},
+	{
+		"name": "Verdana-Italic",
+		"weight": 0
+	},
+	{
+		"name": "Verdana-Bold",
+		"weight": 0
+	},
+	{
+		"name": "Verdana-BoldItalic",
+		"weight": 0
+	},
+	{
+		"name": "Webdings",
+		"weight": 0
+	},
+	{
+		"name": "Wingdings-Regular",
+		"weight": 0
+	},
+	{
+		"name": "Wingdings2",
+		"weight": 0
+	},
+	{
+		"name": "Wingdings3",
+		"weight": 0
+	},
+	{
+		"name": "Yrsa-Regular",
+		"weight": 0.206628
+	},
+	{
+		"name": "Yrsa-SemiBold",
+		"weight": 0.19962
+	},
+	{
+		"name": "ZapfDingbatsITC",
+		"weight": 0
+	},
+	{
+		"name": "Zapfino",
+		"weight": 1
+	},
+	{
+		"name": "AppleSDGothicNeo-Regular",
+		"weight": 0
+	},
+	{
+		"name": "HiraKakuPro-W3",
+		"weight": 0
+	},
+	{
+		"name": "HiraKakuPro-W6",
+		"weight": 0
+	},
+	{
+		"name": "HiraKakuProN-W3",
+		"weight": 0
+	},
+	{
+		"name": "HiraKakuProN-W6",
+		"weight": 0
+	},
+	{
+		"name": "HiraKakuStd-W8",
+		"weight": 0
+	},
+	{
+		"name": "HiraKakuStdN-W8",
+		"weight": 0
+	},
+	{
+		"name": "HiraMaruPro-W4",
+		"weight": 0
+	},
+	{
+		"name": "HiraMaruProN-W4",
+		"weight": 0
+	},
+	{
+		"name": "HiraMinPro-W3",
+		"weight": 0
+	},
+	{
+		"name": "HiraMinPro-W6",
+		"weight": 0
+	},
+	{
+		"name": "HiraMinProN-W3",
+		"weight": 0
+	},
+	{
+		"name": "HiraMinProN-W6",
+		"weight": 0
+	},
+	{
+		"name": "HiraginoSans-W0",
+		"weight": 0
+	},
+	{
+		"name": "HiraginoSans-W1",
+		"weight": 0
+	},
+	{
+		"name": "HiraginoSans-W2",
+		"weight": 0
+	},
+	{
+		"name": "HiraginoSans-W3",
+		"weight": 0
+	},
+	{
+		"name": "HiraginoSans-W4",
+		"weight": 0
+	},
+	{
+		"name": "HiraginoSans-W5",
+		"weight": 0
+	},
+	{
+		"name": "HiraginoSans-W6",
+		"weight": 0
+	},
+	{
+		"name": "HiraginoSans-W7",
+		"weight": 0
+	},
+	{
+		"name": "HiraginoSans-W8",
+		"weight": 0
+	},
+	{
+		"name": "HiraginoSans-W9",
+		"weight": 0
+	},
+	{
+		"name": "Klee-Medium",
+		"weight": 0
+	},
+	{
+		"name": "Klee-Demibold",
+		"weight": 0
+	},
+	{
+		"name": "KozGoPr6N-Regular",
+		"weight": 0
+	},
+	{
+		"name": "KozGoPr6N-Bold",
+		"weight": 0
+	},
+	{
+		"name": "NotoSansYi-Regular",
+		"weight": 0
+	},
+	{
+		"name": "Osaka",
+		"weight": 0
+	},
+	{
+		"name": "Osaka-Mono",
+		"weight": 0
+	},
+	{
+		"name": "ToppanBunkyuGothicPr6N-Regular",
+		"weight": 0
+	},
+	{
+		"name": "ToppanBunkyuGothicPr6N-DB",
+		"weight": 0
+	},
+	{
+		"name": "ToppanBunkyuMidashiGothicStdN-ExtraBold",
+		"weight": 0
+	},
+	{
+		"name": "ToppanBunkyuMidashiMinchoStdN-ExtraBold",
+		"weight": 0
+	},
+	{
+		"name": "ToppanBunkyuMinchoPr6N-Regular",
+		"weight": 0
+	},
+	{
+		"name": "TsukuARdGothic-Regular",
+		"weight": 0
+	},
+	{
+		"name": "TsukuARdGothic-Bold",
+		"weight": 0
+	},
+	{
+		"name": "TsukuBRdGothic-Regular",
+		"weight": 0
+	},
+	{
+		"name": "TsukuBRdGothic-Bold",
+		"weight": 0
+	},
+	{
+		"name": "YuGo-Medium",
+		"weight": 0
+	},
+	{
+		"name": "YuGo-Bold",
+		"weight": 0
+	},
+	{
+		"name": "YuKyo-Medium",
+		"weight": 0
+	},
+	{
+		"name": "YuKyo-Bold",
+		"weight": 0
+	},
+	{
+		"name": "YuKyo_Yoko-Medium",
+		"weight": 0
+	},
+	{
+		"name": "YuKyo_Yoko-Bold",
+		"weight": 0
+	},
+	{
+		"name": "YuMin-Medium",
+		"weight": 0
+	},
+	{
+		"name": "YuMin-Demibold",
+		"weight": 0
+	},
+	{
+		"name": "YuMin-Extrabold",
+		"weight": 0
+	},
+	{
+		"name": "YuMin_36pKn-Medium",
+		"weight": 0
+	},
+	{
+		"name": "YuMin_36pKn-Demibold",
+		"weight": 0
+	},
+	{
+		"name": "YuMin_36pKn-Extrabold",
+		"weight": 0
+	},
+	{
+		"name": "AdobeFanHeitiStd-Bold",
+		"weight": 0
+	},
+	{
+		"name": "LiGothicMed",
+		"weight": 0
+	},
+	{
+		"name": "LiSungLight",
+		"weight": 0
+	},
+	{
+		"name": "DFKaiShu-SB-Estd-BF",
+		"weight": 0
+	},
+	{
+		"name": "HannotateTC-W7",
+		"weight": 0
+	},
+	{
+		"name": "HannotateTC-W5",
+		"weight": 0
+	},
+	{
+		"name": "HanziPenTC-W5",
+		"weight": 0
+	},
+	{
+		"name": "HanziPenTC-W3",
+		"weight": 0
+	},
+	{
+		"name": "STHeitiTC-Light",
+		"weight": 0
+	},
+	{
+		"name": "STHeitiTC-Medium",
+		"weight": 0
+	},
+	{
+		"name": "HiraginoSansCNS-W3",
+		"weight": 0
+	},
+	{
+		"name": "HiraginoSansCNS-W6",
+		"weight": 0
+	},
+	{
+		"name": "FZLTZHB--B51-0",
+		"weight": 0
+	},
+	{
+		"name": "FZLTXHB--B51-0",
+		"weight": 0
+	},
+	{
+		"name": "FZLTTHB--B51-0",
+		"weight": 0
+	},
+	{
+		"name": "LiHeiPro",
+		"weight": 0
+	},
+	{
+		"name": "MLingWaiMedium-TC",
+		"weight": 0
+	},
+	{
+		"name": "LiSongPro",
+		"weight": 0
+	},
+	{
+		"name": "PingFangHK-Ultralight",
+		"weight": 0
+	},
+	{
+		"name": "PingFangHK-Thin",
+		"weight": 0
+	},
+	{
+		"name": "PingFangHK-Light",
+		"weight": 0
+	},
+	{
+		"name": "PingFangHK-Regular",
+		"weight": 0
+	},
+	{
+		"name": "PingFangHK-Medium",
+		"weight": 0
+	},
+	{
+		"name": "PingFangHK-Semibold",
+		"weight": 0
+	},
+	{
+		"name": "PingFangTC-Ultralight",
+		"weight": 0
+	},
+	{
+		"name": "PingFangTC-Thin",
+		"weight": 0
+	},
+	{
+		"name": "PingFangTC-Light",
+		"weight": 0
+	},
+	{
+		"name": "PingFangTC-Regular",
+		"weight": 0
+	},
+	{
+		"name": "PingFangTC-Medium",
+		"weight": 0
+	},
+	{
+		"name": "PingFangTC-Semibold",
+		"weight": 0
+	},
+	{
+		"name": "DFWaWaTC-W5",
+		"weight": 0
+	},
+	{
+		"name": "WeibeiTC-Bold",
+		"weight": 0
+	},
+	{
+		"name": "YuppyTC-Regular",
+		"weight": 0
+	},
+	{
+		"name": "AppleSDGothicNeo-Thin",
+		"weight": 0
+	},
+	{
+		"name": "AppleSDGothicNeo-UltraLight",
+		"weight": 0
+	},
+	{
+		"name": "AppleSDGothicNeo-Light",
+		"weight": 0
+	},
+	{
+		"name": "AppleSDGothicNeo-Medium",
+		"weight": 0
+	},
+	{
+		"name": "AppleSDGothicNeo-SemiBold",
+		"weight": 0
+	},
+	{
+		"name": "AppleSDGothicNeo-Bold",
+		"weight": 0
+	},
+	{
+		"name": "AppleSDGothicNeo-ExtraBold",
+		"weight": 0
+	},
+	{
+		"name": "AppleSDGothicNeo-Heavy",
+		"weight": 0
+	},
+	{
+		"name": "AppleGothic",
+		"weight": 0
+	},
+	{
+		"name": "AppleMyungjo",
+		"weight": 0
+	},
+	{
+		"name": "ArialUnicodeMS",
+		"weight": 0
+	},
+	{
+		"name": "JCkg",
+		"weight": 0
+	},
+	{
+		"name": "JCHEadA",
+		"weight": 0
+	},
+	{
+		"name": "NanumBrush",
+		"weight": 0
+	},
+	{
+		"name": "NanumGothic",
+		"weight": 0
+	},
+	{
+		"name": "NanumGothicBold",
+		"weight": 0
+	},
+	{
+		"name": "NanumGothicExtraBold",
+		"weight": 0
+	},
+	{
+		"name": "NanumMyeongjo",
+		"weight": 0
+	},
+	{
+		"name": "NanumMyeongjoBold",
+		"weight": 0
+	},
+	{
+		"name": "NanumMyeongjoExtraBold",
+		"weight": 0
+	},
+	{
+		"name": "NanumPen",
+		"weight": 0
+	},
+	{
+		"name": "JCsmPC",
+		"weight": 0
+	},
+	{
+		"name": "JCfg",
+		"weight": 0
+	},
+	{
+		"name": "AlBayan",
+		"weight": 0
+	},
+	{
+		"name": "AlBayan-Bold",
+		"weight": 0
+	},
+	{
+		"name": "AlNile",
+		"weight": 0
+	},
+	{
+		"name": "AlNile-Bold",
+		"weight": 0
+	},
+	{
+		"name": "AlTarikh",
+		"weight": 0
+	},
+	{
+		"name": "Baghdad",
+		"weight": 0
+	},
+	{
+		"name": "BalooBhaijaan-Regular",
+		"weight": 0
+	},
+	{
+		"name": "Beirut",
+		"weight": 0
+	},
+	{
+		"name": "Damascus",
+		"weight": 0
+	},
+	{
+		"name": "DamascusLight",
+		"weight": 0
+	},
+	{
+		"name": "DamascusMedium",
+		"weight": 0
+	},
+	{
+		"name": "DamascusSemiBold",
+		"weight": 0
+	},
+	{
+		"name": "DamascusBold",
+		"weight": 0
+	},
+	{
+		"name": "DecoTypeNaskh",
+		"weight": 0
+	},
+	{
+		"name": "DiwanKufi",
+		"weight": 0
+	},
+	{
+		"name": "DiwanThuluth",
+		"weight": 0
+	},
+	{
+		"name": "Farah",
+		"weight": 0
+	},
+	{
+		"name": "Farisi",
+		"weight": 0
+	},
+	{
+		"name": "GeezaPro",
+		"weight": 0
+	},
+	{
+		"name": "GeezaPro-Bold",
+		"weight": 0
+	},
+	{
+		"name": "KufiStandardGK",
+		"weight": 0
+	},
+	{
+		"name": "DiwanMishafi",
+		"weight": 0
+	},
+	{
+		"name": "DiwanMishafiGold",
+		"weight": 0
+	},
+	{
+		"name": "Muna",
+		"weight": 0
+	},
+	{
+		"name": "MunaBold",
+		"weight": 0
+	},
+	{
+		"name": "MunaBlack",
+		"weight": 0
+	},
+	{
+		"name": "MyriadArabic-Regular",
+		"weight": 0
+	},
+	{
+		"name": "MyriadArabic-It",
+		"weight": 0
+	},
+	{
+		"name": "MyriadArabic-Bold",
+		"weight": 0
+	},
+	{
+		"name": "MyriadArabic-BoldIt",
+		"weight": 0
+	},
+	{
+		"name": "Nadeem",
+		"weight": 0
+	},
+	{
+		"name": "NotoNastaliqUrdu",
+		"weight": 0
+	},
+	{
+		"name": "NotoNastaliqUrdu-Bold",
+		"weight": 0
+	},
+	{
+		"name": "Sana",
+		"weight": 0
+	},
+	{
+		"name": "WaseemLight",
+		"weight": 0
+	},
+	{
+		"name": "Waseem",
+		"weight": 0
+	},
+	{
+		"name": "ArialHebrew-Light",
+		"weight": 0
+	},
+	{
+		"name": "ArialHebrew",
+		"weight": 0
+	},
+	{
+		"name": "ArialHebrew-Bold",
+		"weight": 0
+	},
+	{
+		"name": "ArialHebrewScholar-Light",
+		"weight": 0
+	},
+	{
+		"name": "ArialHebrewScholar",
+		"weight": 0
+	},
+	{
+		"name": "ArialHebrewScholar-Bold",
+		"weight": 0
+	},
+	{
+		"name": "CorsivaHebrew-Bold",
+		"weight": 0
+	},
+	{
+		"name": "CorsivaHebrew",
+		"weight": 0
+	},
+	{
+		"name": "MyriadHebrew-Regular",
+		"weight": 0
+	},
+	{
+		"name": "MyriadHebrew-It",
+		"weight": 0
+	},
+	{
+		"name": "MyriadHebrew-Bold",
+		"weight": 0
+	},
+	{
+		"name": "MyriadHebrew-BoldIt",
+		"weight": 0
+	},
+	{
+		"name": "NewPeninimMT-Bold",
+		"weight": 0
+	},
+	{
+		"name": "NewPeninimMT",
+		"weight": 0
+	},
+	{
+		"name": "NewPeninimMT-BoldInclined",
+		"weight": 0
+	},
+	{
+		"name": "NewPeninimMT-Inclined",
+		"weight": 0
+	},
+	{
+		"name": "RaananaBold",
+		"weight": 0
+	},
+	{
+		"name": "Raanana",
+		"weight": 0
+	},
+	{
+		"name": "AdobeDevanagari-Regular",
+		"weight": 0
+	},
+	{
+		"name": "AdobeDevanagari-Italic",
+		"weight": 0
+	},
+	{
+		"name": "AdobeDevanagari-Bold",
+		"weight": 0
+	},
+	{
+		"name": "AdobeDevanagari-BoldItalic",
+		"weight": 0
+	},
+	{
+		"name": "DevanagariMT",
+		"weight": 0
+	},
+	{
+		"name": "DevanagariMT-Bold",
+		"weight": 0
+	},
+	{
+		"name": "DevanagariSangamMN",
+		"weight": 0
+	},
+	{
+		"name": "DevanagariSangamMN-Bold",
+		"weight": 0
+	},
+	{
+		"name": "Gotu",
+		"weight": 0
+	},
+	{
+		"name": "ITFDevanagari-Light",
+		"weight": 0
+	},
+	{
+		"name": "ITFDevanagari-Book",
+		"weight": 0
+	},
+	{
+		"name": "ITFDevanagari-Medium",
+		"weight": 0
+	},
+	{
+		"name": "ITFDevanagari-Demi",
+		"weight": 0
+	},
+	{
+		"name": "ITFDevanagari-Bold",
+		"weight": 0
+	},
+	{
+		"name": "ITFDevanagariMarathi-Light",
+		"weight": 0
+	},
+	{
+		"name": "ITFDevanagariMarathi-Book",
+		"weight": 0
+	},
+	{
+		"name": "ITFDevanagariMarathi-Medium",
+		"weight": 0
+	},
+	{
+		"name": "ITFDevanagariMarathi-Demi",
+		"weight": 0
+	},
+	{
+		"name": "ITFDevanagariMarathi-Bold",
+		"weight": 0
+	},
+	{
+		"name": "Jaini",
+		"weight": 0
+	},
+	{
+		"name": "JainiPurva",
+		"weight": 0
+	},
+	{
+		"name": "TiroHindi",
+		"weight": 0
+	},
+	{
+		"name": "TiroMarathi",
+		"weight": 0
+	},
+	{
+		"name": "TiroSanskrit",
+		"weight": 0
+	},
+	{
+		"name": "AdobeGurmukhi-Regular",
+		"weight": 0
+	},
+	{
+		"name": "AdobeGurmukhi-Bold",
+		"weight": 0
+	},
+	{
+		"name": "GurmukhiMN",
+		"weight": 0
+	},
+	{
+		"name": "GurmukhiMN-Bold",
+		"weight": 0
+	},
+	{
+		"name": "MonotypeGurmukhi",
+		"weight": 0
+	},
+	{
+		"name": "GurmukhiSangamMN",
+		"weight": 0
+	},
+	{
+		"name": "GurmukhiSangamMN-Bold",
+		"weight": 0
+	},
+	{
+		"name": "LahoreGurmukhi-Light",
+		"weight": 0
+	},
+	{
+		"name": "LahoreGurmukhi-Regular",
+		"weight": 0
+	},
+	{
+		"name": "LahoreGurmukhi-Medium",
+		"weight": 0
+	},
+	{
+		"name": "LahoreGurmukhi-SemiBold",
+		"weight": 0
+	},
+	{
+		"name": "LahoreGurmukhi-Bold",
+		"weight": 0
+	},
+	{
+		"name": "TiroGurmukhi-Italic",
+		"weight": 0
+	},
+	{
+		"name": "TiroGurmukhi",
+		"weight": 0
+	},
+	{
+		"name": "GujaratiMT",
+		"weight": 0
+	},
+	{
+		"name": "GujaratiMT-Bold",
+		"weight": 0
+	},
+	{
+		"name": "GujaratiSangamMN",
+		"weight": 0
+	},
+	{
+		"name": "GujaratiSangamMN-Bold",
+		"weight": 0
+	},
+	{
+		"name": "KohinoorGujarati-Light",
+		"weight": 0
+	},
+	{
+		"name": "KohinoorGujarati-Regular",
+		"weight": 0
+	},
+	{
+		"name": "KohinoorGujarati-Medium",
+		"weight": 0
+	},
+	{
+		"name": "KohinoorGujarati-Semibold",
+		"weight": 0
+	},
+	{
+		"name": "KohinoorGujarati-Bold",
+		"weight": 0
+	},
+	{
+		"name": "NotoSansOriya",
+		"weight": 0
+	},
+	{
+		"name": "NotoSansOriya-Bold",
+		"weight": 0
+	},
+	{
+		"name": "OriyaMN-Bold",
+		"weight": 0
+	},
+	{
+		"name": "OriyaMN",
+		"weight": 0
+	},
+	{
+		"name": "OriyaSangamMN-Bold",
+		"weight": 0
+	},
+	{
+		"name": "OriyaSangamMN",
+		"weight": 0
+	},
+	{
+		"name": "BanglaMN-Bold",
+		"weight": 0
+	},
+	{
+		"name": "BanglaMN",
+		"weight": 0
+	},
+	{
+		"name": "BanglaSangamMN",
+		"weight": 0
+	},
+	{
+		"name": "BanglaSangamMN-Bold",
+		"weight": 0
+	},
+	{
+		"name": "TiroBangla-Italic",
+		"weight": 0
+	},
+	{
+		"name": "TiroBangla",
+		"weight": 0
+	},
+	{
+		"name": "InaiMathi",
+		"weight": 0
+	},
+	{
+		"name": "InaiMathi-Bold",
+		"weight": 0
+	},
+	{
+		"name": "TamilMN",
+		"weight": 0
+	},
+	{
+		"name": "TamilMN-Bold",
+		"weight": 0
+	},
+	{
+		"name": "TamilSangamMN",
+		"weight": 0
+	},
+	{
+		"name": "TamilSangamMN-Bold",
+		"weight": 0
+	},
+	{
+		"name": "TiroTamil-Italic",
+		"weight": 0
+	},
+	{
+		"name": "TiroTamil",
+		"weight": 0
+	},
+	{
+		"name": "TeluguMN-Bold",
+		"weight": 0
+	},
+	{
+		"name": "TeluguMN",
+		"weight": 0
+	},
+	{
+		"name": "TeluguSangamMN-Bold",
+		"weight": 0
+	},
+	{
+		"name": "TeluguSangamMN",
+		"weight": 0
+	},
+	{
+		"name": "TiroTelugu-Italic",
+		"weight": 0
+	},
+	{
+		"name": "TiroTelugu",
+		"weight": 0
+	},
+	{
+		"name": "KannadaMN",
+		"weight": 0
+	},
+	{
+		"name": "KannadaMN-Bold",
+		"weight": 0
+	},
+	{
+		"name": "KannadaSangamMN-Bold",
+		"weight": 0
+	},
+	{
+		"name": "KannadaSangamMN",
+		"weight": 0
+	},
+	{
+		"name": "NotoSansKannada-Thin",
+		"weight": 0
+	},
+	{
+		"name": "NotoSansKannada-ExtraLight",
+		"weight": 0
+	},
+	{
+		"name": "NotoSansKannada-Light",
+		"weight": 0
+	},
+	{
+		"name": "NotoSansKannada-Regular",
+		"weight": 0
+	},
+	{
+		"name": "NotoSansKannada-Medium",
+		"weight": 0
+	},
+	{
+		"name": "NotoSansKannada-SemiBold",
+		"weight": 0
+	},
+	{
+		"name": "NotoSansKannada-Bold",
+		"weight": 0
+	},
+	{
+		"name": "NotoSansKannada-ExtraBold",
+		"weight": 0
+	},
+	{
+		"name": "NotoSansKannada-Black",
+		"weight": 0
+	},
+	{
+		"name": "NotoSerifKannada-Thin",
+		"weight": 0
+	},
+	{
+		"name": "NotoSerifKannada-ExtraLight",
+		"weight": 0
+	},
+	{
+		"name": "NotoSerifKannada-Light",
+		"weight": 0
+	},
+	{
+		"name": "NotoSerifKannada-Regular",
+		"weight": 0
+	},
+	{
+		"name": "NotoSerifKannada-Medium",
+		"weight": 0
+	},
+	{
+		"name": "NotoSerifKannada-SemiBold",
+		"weight": 0
+	},
+	{
+		"name": "NotoSerifKannada-Bold",
+		"weight": 0
+	},
+	{
+		"name": "NotoSerifKannada-ExtraBold",
+		"weight": 0
+	},
+	{
+		"name": "NotoSerifKannada-Black",
+		"weight": 0
+	},
+	{
+		"name": "TiroKannada-Italic",
+		"weight": 0
+	},
+	{
+		"name": "TiroKannada",
+		"weight": 0
+	},
+	{
+		"name": "MalayalamMN-Bold",
+		"weight": 0
+	},
+	{
+		"name": "MalayalamMN",
+		"weight": 0
+	},
+	{
+		"name": "MalayalamSangamMN",
+		"weight": 0
+	},
+	{
+		"name": "MalayalamSangamMN-Bold",
+		"weight": 0
+	},
+	{
+		"name": "AdobeThai-Regular",
+		"weight": 0
+	},
+	{
+		"name": "KhmerMN-Bold",
+		"weight": 0
+	},
+	{
+		"name": "KhmerMN",
+		"weight": 0
+	},
+	{
+		"name": "KhmerSangamMN",
+		"weight": 0
+	},
+	{
+		"name": "LaoMN-Bold",
+		"weight": 0
+	},
+	{
+		"name": "LaoMN",
+		"weight": 0
+	},
+	{
+		"name": "LaoSangamMN",
+		"weight": 0
+	},
+	{
+		"name": "MyanmarMN-Bold",
+		"weight": 0
+	},
+	{
+		"name": "MyanmarMN",
+		"weight": 0
+	},
+	{
+		"name": "MyanmarSangamMN-Bold",
+		"weight": 0
+	},
+	{
+		"name": "MyanmarSangamMN",
+		"weight": 0
+	},
+	{
+		"name": "NotoSansKhmer-Regular",
+		"weight": 0
+	},
+	{
+		"name": "NotoSansLao-Regular",
+		"weight": 0
+	},
+	{
+		"name": "NotoSansMyanmar-Thin",
+		"weight": 0
+	},
+	{
+		"name": "NotoSansMyanmar-ExtraLight",
+		"weight": 0
+	},
+	{
+		"name": "NotoSansMyanmar-Light",
+		"weight": 0
+	},
+	{
+		"name": "NotoSansMyanmar-Regular",
+		"weight": 0
+	},
+	{
+		"name": "NotoSansMyanmar-Medium",
+		"weight": 0
+	},
+	{
+		"name": "NotoSansMyanmar-SemiBold",
+		"weight": 0
+	},
+	{
+		"name": "NotoSansMyanmar-Bold",
+		"weight": 0
+	},
+	{
+		"name": "NotoSansMyanmar-ExtraBold",
+		"weight": 0
+	},
+	{
+		"name": "NotoSansMyanmar-Black",
+		"weight": 0
+	},
+	{
+		"name": "NotoSansSinhala-Regular",
+		"weight": 0
+	},
+	{
+		"name": "NotoSansZawgyi-Thin",
+		"weight": 0
+	},
+	{
+		"name": "NotoSansZawgyi-ExtraLight",
+		"weight": 0
+	},
+	{
+		"name": "NotoSansZawgyi-Light",
+		"weight": 0
+	},
+	{
+		"name": "NotoSansZawgyi-Regular",
+		"weight": 0
+	},
+	{
+		"name": "NotoSansZawgyi-Medium",
+		"weight": 0
+	},
+	{
+		"name": "NotoSansZawgyi-SemiBold",
+		"weight": 0
+	},
+	{
+		"name": "NotoSansZawgyi-Bold",
+		"weight": 0
+	},
+	{
+		"name": "NotoSansZawgyi-ExtraBold",
+		"weight": 0
+	},
+	{
+		"name": "NotoSansZawgyi-Black",
+		"weight": 0
+	},
+	{
+		"name": "NotoSerifMyanmar-Thin",
+		"weight": 0
+	},
+	{
+		"name": "NotoSerifMyanmar-ExtraLight",
+		"weight": 0
+	},
+	{
+		"name": "NotoSerifMyanmar-Light",
+		"weight": 0
+	},
+	{
+		"name": "NotoSerifMyanmar-Regular",
+		"weight": 0
+	},
+	{
+		"name": "NotoSerifMyanmar-Medium",
+		"weight": 0
+	},
+	{
+		"name": "NotoSerifMyanmar-SemiBold",
+		"weight": 0
+	},
+	{
+		"name": "NotoSerifMyanmar-Bold",
+		"weight": 0
+	},
+	{
+		"name": "NotoSerifMyanmar-ExtraBold",
+		"weight": 0
+	},
+	{
+		"name": "NotoSerifMyanmar-Black",
+		"weight": 0
+	},
+	{
+		"name": "PSLOrnanongPro-Light",
+		"weight": 0
+	},
+	{
+		"name": "PSLOrnanongPro-Regular",
+		"weight": 0
+	},
+	{
+		"name": "PSLOrnanongPro-Italic",
+		"weight": 0
+	},
+	{
+		"name": "PSLOrnanongPro-LightItalic",
+		"weight": 0
+	},
+	{
+		"name": "PSLOrnanongPro-Bold",
+		"weight": 0
+	},
+	{
+		"name": "PSLOrnanongPro-Demibold",
+		"weight": 0
+	},
+	{
+		"name": "PSLOrnanongPro-BoldItalic",
+		"weight": 0
+	},
+	{
+		"name": "PSLOrnanongPro-DemiboldItalic",
+		"weight": 0
+	},
+	{
+		"name": "SinhalaMN-Bold",
+		"weight": 0
+	},
+	{
+		"name": "SinhalaMN",
+		"weight": 0
+	},
+	{
+		"name": "SinhalaSangamMN-Bold",
+		"weight": 0
+	},
+	{
+		"name": "SinhalaSangamMN",
+		"weight": 0
+	},
+	{
+		"name": "AdobeHeitiStd-Regular",
+		"weight": 0
+	},
+	{
+		"name": "STBaoliSC-Regular",
+		"weight": 0
+	},
+	{
+		"name": "STBaoliTC-Regular",
+		"weight": 0
+	},
+	{
+		"name": "HannotateSC-W7",
+		"weight": 0
+	},
+	{
+		"name": "HannotateSC-W5",
+		"weight": 0
+	},
+	{
+		"name": "HanziPenSC-W5",
+		"weight": 0
+	},
+	{
+		"name": "HanziPenSC-W3",
+		"weight": 0
+	},
+	{
+		"name": "SIL-Hei-Med-Jian",
+		"weight": 0
+	},
+	{
+		"name": "STHeitiSC-Light",
+		"weight": 0
+	},
+	{
+		"name": "STHeitiSC-Medium",
+		"weight": 0
+	},
+	{
+		"name": "HiraginoSansGB-W3",
+		"weight": 0
+	},
+	{
+		"name": "HiraginoSansGB-W6",
+		"weight": 0
+	},
+	{
+		"name": "SIL-Kai-Reg-Jian",
+		"weight": 0
+	},
+	{
+		"name": "STKaitiSC-Black",
+		"weight": 0
+	},
+	{
+		"name": "STKaitiSC-Bold",
+		"weight": 0
+	},
+	{
+		"name": "STKaitiSC-Regular",
+		"weight": 0
+	},
+	{
+		"name": "STKaitiTC-Black",
+		"weight": 0
+	},
+	{
+		"name": "STKaitiTC-Bold",
+		"weight": 0
+	},
+	{
+		"name": "STKaitiTC-Regular",
+		"weight": 0
+	},
+	{
+		"name": "FZLTZHK--GBK1-0",
+		"weight": 0
+	},
+	{
+		"name": "FZLTXHK--GBK1-0",
+		"weight": 0
+	},
+	{
+		"name": "FZLTTHK--GBK1-0",
+		"weight": 0
+	},
+	{
+		"name": "STLibianSC-Regular",
+		"weight": 0
+	},
+	{
+		"name": "STLibianTC-Regular",
+		"weight": 0
+	},
+	{
+		"name": "MLingWaiMedium-SC",
+		"weight": 0
+	},
+	{
+		"name": "PingFangSC-Ultralight",
+		"weight": 0
+	},
+	{
+		"name": "PingFangSC-Thin",
+		"weight": 0
+	},
+	{
+		"name": "PingFangSC-Light",
+		"weight": 0
+	},
+	{
+		"name": "PingFangSC-Regular",
+		"weight": 0
+	},
+	{
+		"name": "PingFangSC-Medium",
+		"weight": 0
+	},
+	{
+		"name": "PingFangSC-Semibold",
+		"weight": 0
+	},
+	{
+		"name": "STSongti-SC-Light",
+		"weight": 0
+	},
+	{
+		"name": "STSongti-SC-Regular",
+		"weight": 0
+	},
+	{
+		"name": "STSongti-SC-Bold",
+		"weight": 0
+	},
+	{
+		"name": "STSongti-SC-Black",
+		"weight": 0
+	},
+	{
+		"name": "STSongti-TC-Light",
+		"weight": 0
+	},
+	{
+		"name": "STSongti-TC-Regular",
+		"weight": 0
+	},
+	{
+		"name": "STSongti-TC-Bold",
+		"weight": 0
+	},
+	{
+		"name": "SourceHanSansCN-Light",
+		"weight": 0
+	},
+	{
+		"name": "STFangsong",
+		"weight": 0
+	},
+	{
+		"name": "STXihei",
+		"weight": 0
+	},
+	{
+		"name": "STHeiti",
+		"weight": 0
+	},
+	{
+		"name": "STKaiti",
+		"weight": 0
+	},
+	{
+		"name": "STSong",
+		"weight": 0
+	},
+	{
+		"name": "DFWaWaSC-W5",
+		"weight": 0
+	},
+	{
+		"name": "WeibeiSC-Bold",
+		"weight": 0
+	},
+	{
+		"name": "STXingkaiSC-Light",
+		"weight": 0
+	},
+	{
+		"name": "STXingkaiSC-Bold",
+		"weight": 0
+	},
+	{
+		"name": "STXingkaiTC-Light",
+		"weight": 0
+	},
+	{
+		"name": "STXingkaiTC-Bold",
+		"weight": 0
+	},
+	{
+		"name": "STYuanti-SC-Bold",
+		"weight": 0
+	},
+	{
+		"name": "STYuanti-SC-Light",
+		"weight": 0
+	},
+	{
+		"name": "STYuanti-SC-Regular",
+		"weight": 0
+	},
+	{
+		"name": "STYuanti-TC-Bold",
+		"weight": 0
+	},
+	{
+		"name": "STYuanti-TC-Light",
+		"weight": 0
+	},
+	{
+		"name": "STYuanti-TC-Regular",
+		"weight": 0
+	},
+	{
+		"name": "YuppySC-Regular",
+		"weight": 0
+	},
+	{
+		"name": "Canela-Regular",
+		"weight": 0.236301
+	},
+	{
+		"name": "Canela-RegularItalic",
+		"weight": 0.284419
+	},
+	{
+		"name": "Canela-Bold",
+		"weight": 0.230727
+	},
+	{
+		"name": "Canela-BoldItalic",
+		"weight": 0.275173
+	},
+	{
+		"name": "CanelaText-Regular",
+		"weight": 0.205893
+	},
+	{
+		"name": "CanelaText-RegularItalic",
+		"weight": 0.280835
+	},
+	{
+		"name": "CanelaText-Medium",
+		"weight": 0.19831
+	},
+	{
+		"name": "CanelaText-MediumItalic",
+		"weight": 0.281708
+	},
+	{
+		"name": "CanelaText-Bold",
+		"weight": 0.217669
+	},
+	{
+		"name": "CanelaText-BoldItalic",
+		"weight": 0.275909
+	},
+	{
+		"name": "IBMPlexMono-ExtraLightItalic",
+		"weight": 0.233626
+	},
+	{
+		"name": "JiagnXizhuokai-Regular",
+		"weight": 0.241815
+	},
+	{
+		"name": "ManingueStaile-ManingueStaile",
+		"weight": 0.0784446
+	},
+	{
+		"name": "WWF",
+		"weight": 0.245688
+	},
+	{
+		"name": "HelloFont-WenYiHei",
+		"weight": 0
+	},
+	{
+		"name": "HuXiaoBo-NanShenTi2.0",
+		"weight": 0
+	},
+	{
+		"name": "HuXiaoBo-SaoBaoTi2.0",
+		"weight": 0
+	},
+	{
+		"name": "HYDongHaiMoXing-W",
+		"weight": 0
+	},
+	{
+		"name": "HYHuangKeBangShu-W",
+		"weight": 0
+	},
+	{
+		"name": "HYQinChuanManShuW",
+		"weight": 0
+	},
+	{
+		"name": "HYShangWeiHeFengTi-W",
+		"weight": 0
+	},
+	{
+		"name": "HYShangWeiXuanFengTi-W",
+		"weight": 0
+	},
+	{
+		"name": "HYZhuZiSuDaHeiW",
+		"weight": 0
+	},
+	{
+		"name": "NotoSansHans-Medium",
+		"weight": 0
+	},
+	{
+		"name": "NotoSansHans-Bold",
+		"weight": 0
+	},
+	{
+		"name": "PangMenZhengDao-Cu",
+		"weight": 0
+	},
+	{
+		"name": "Slideqiuhong-Regular",
+		"weight": 0
+	},
+	{
+		"name": "SourceHanSerifCN-Heavy",
+		"weight": 0
+	},
+	{
+		"name": "WWFNon-CommercialUse-Regular",
+		"weight": 0
+	},
+	{
+		"name": "YouSheBiaoTiHei",
+		"weight": 0
+	},
+	{
+		"name": "ZhenyanGB-Regular",
+		"weight": 0
+	},
+	{
+		"name": "SFCompact-Ultralight",
+		"weight": 0.240852
+	},
+	{
+		"name": "SFCompact-Thin",
+		"weight": 0.238243
+	},
+	{
+		"name": "SFCompact-Light",
+		"weight": 0.234892
+	},
+	{
+		"name": "SFCompact-Regular",
+		"weight": 0.240753
+	},
+	{
+		"name": "SFCompact-Medium",
+		"weight": 0.234606
+	},
+	{
+		"name": "SFCompact-Semibold",
+		"weight": 0.24159
+	},
+	{
+		"name": "SFCompact-Bold",
+		"weight": 0.236941
+	},
+	{
+		"name": "SFCompact-Heavy",
+		"weight": 0.240897
+	},
+	{
+		"name": "SFCompact-Black",
+		"weight": 0.238332
+	},
+	{
+		"name": "SFCompact-UltralightItalic",
+		"weight": 0.240454
+	},
+	{
+		"name": "SFCompact-ThinItalic",
+		"weight": 0.257827
+	},
+	{
+		"name": "SFCompact-LightItalic",
+		"weight": 0.250289
+	},
+	{
+		"name": "SFCompact-RegularItalic",
+		"weight": 0.248918
+	},
+	{
+		"name": "SFCompact-MediumItalic",
+		"weight": 0.251275
+	},
+	{
+		"name": "SFCompact-SemiboldItalic",
+		"weight": 0.246691
+	},
+	{
+		"name": "SFCompact-BoldItalic",
+		"weight": 0.240414
+	},
+	{
+		"name": "SFCompact-HeavyItalic",
+		"weight": 0.246713
+	},
+	{
+		"name": "SFCompact-BlackItalic",
+		"weight": 0.254368
+	},
+	{
+		"name": "SFCompactDisplay-Ultralight",
+		"weight": 0.266569
+	},
+	{
+		"name": "SFCompactDisplay-Light",
+		"weight": 0.248298
+	},
+	{
+		"name": "SFCompactDisplay-Thin",
+		"weight": 0.256043
+	},
+	{
+		"name": "SFCompactDisplay-Regular",
+		"weight": 0.247013
+	},
+	{
+		"name": "SFCompactDisplay-Medium",
+		"weight": 0.243509
+	},
+	{
+		"name": "SFCompactDisplay-Semibold",
+		"weight": 0.242338
+	},
+	{
+		"name": "SFCompactDisplay-Bold",
+		"weight": 0.250631
+	},
+	{
+		"name": "SFCompactDisplay-Black",
+		"weight": 0.253399
+	},
+	{
+		"name": "SFCompactDisplay-Heavy",
+		"weight": 0.250627
+	},
+	{
+		"name": "SFCompactRounded-Ultralight",
+		"weight": 0.27031
+	},
+	{
+		"name": "SFCompactRounded-Thin",
+		"weight": 0.251755
+	},
+	{
+		"name": "SFCompactRounded-Light",
+		"weight": 0.240339
+	},
+	{
+		"name": "SFCompactRounded-Regular",
+		"weight": 0.242853
+	},
+	{
+		"name": "SFCompactRounded-Medium",
+		"weight": 0.228993
+	},
+	{
+		"name": "SFCompactRounded-Semibold",
+		"weight": 0.231573
+	},
+	{
+		"name": "SFCompactRounded-Bold",
+		"weight": 0.228161
+	},
+	{
+		"name": "SFCompactRounded-Heavy",
+		"weight": 0.237155
+	},
+	{
+		"name": "SFCompactRounded-Black",
+		"weight": 0.260452
+	},
+	{
+		"name": "SFCompactText-Ultralight",
+		"weight": 0.254349
+	},
+	{
+		"name": "SFCompactText-Thin",
+		"weight": 0.259848
+	},
+	{
+		"name": "SFCompactText-UltralightItalic",
+		"weight": 0.2614
+	},
+	{
+		"name": "SFCompactText-ThinItalic",
+		"weight": 0.266812
+	},
+	{
+		"name": "SFCompactText-Light",
+		"weight": 0.256163
+	},
+	{
+		"name": "SFCompactText-Regular",
+		"weight": 0.253848
+	},
+	{
+		"name": "SFCompactText-Italic",
+		"weight": 0.267609
+	},
+	{
+		"name": "SFCompactText-LightItalic",
+		"weight": 0.231407
+	},
+	{
+		"name": "SFCompactText-Medium",
+		"weight": 0.242951
+	},
+	{
+		"name": "SFCompactText-MediumItalic",
+		"weight": 0.254794
+	},
+	{
+		"name": "SFCompactText-Semibold",
+		"weight": 0.253416
+	},
+	{
+		"name": "SFCompactText-SemiboldItalic",
+		"weight": 0.247883
+	},
+	{
+		"name": "SFCompactText-Bold",
+		"weight": 0.244035
+	},
+	{
+		"name": "SFCompactText-BoldItalic",
+		"weight": 0.242977
+	},
+	{
+		"name": "SFCompactText-Black",
+		"weight": 0.250401
+	},
+	{
+		"name": "SFCompactText-Heavy",
+		"weight": 0.245333
+	},
+	{
+		"name": "SFCompactText-BlackItalic",
+		"weight": 0.255252
+	},
+	{
+		"name": "SFCompactText-HeavyItalic",
+		"weight": 0.24527
+	},
+	{
+		"name": "SFPro-Ultralight",
+		"weight": 0.268543
+	},
+	{
+		"name": "SFPro-Thin",
+		"weight": 0.272441
+	},
+	{
+		"name": "SFPro-Light",
+		"weight": 0.269168
+	},
+	{
+		"name": "SFPro-Regular",
+		"weight": 0.267323
+	},
+	{
+		"name": "SFPro-Medium",
+		"weight": 0.26997
+	},
+	{
+		"name": "SFPro-Semibold",
+		"weight": 0.262976
+	},
+	{
+		"name": "SFPro-Bold",
+		"weight": 0.263964
+	},
+	{
+		"name": "SFPro-Heavy",
+		"weight": 0.258658
+	},
+	{
+		"name": "SFPro-Black",
+		"weight": 0.258745
+	},
+	{
+		"name": "SFPro-UltralightItalic",
+		"weight": 0.247059
+	},
+	{
+		"name": "SFPro-ThinItalic",
+		"weight": 0.246346
+	},
+	{
+		"name": "SFPro-LightItalic",
+		"weight": 0.26615
+	},
+	{
+		"name": "SFPro-RegularItalic",
+		"weight": 0.248116
+	},
+	{
+		"name": "SFPro-HeavyItalic",
+		"weight": 0.253484
+	},
+	{
+		"name": "SFPro-BlackItalic",
+		"weight": 0.246176
+	},
+	{
+		"name": "SFPro-SemiboldItalic",
+		"weight": 0.257353
+	},
+	{
+		"name": "SFPro-BoldItalic",
+		"weight": 0.252576
+	},
+	{
+		"name": "SFPro-MediumItalic",
+		"weight": 0.259207
+	},
+	{
+		"name": "SFProDisplay-Ultralight",
+		"weight": 0.247451
+	},
+	{
+		"name": "SFProDisplay-UltralightItalic",
+		"weight": 0.275884
+	},
+	{
+		"name": "SFProDisplay-Thin",
+		"weight": 0.27842
+	},
+	{
+		"name": "SFProDisplay-ThinItalic",
+		"weight": 0.26071
+	},
+	{
+		"name": "SFProDisplay-Light",
+		"weight": 0.278189
+	},
+	{
+		"name": "SFProDisplay-LightItalic",
+		"weight": 0.261437
+	},
+	{
+		"name": "SFProDisplay-Regular",
+		"weight": 0.258469
+	},
+	{
+		"name": "SFProDisplay-RegularItalic",
+		"weight": 0.236805
+	},
+	{
+		"name": "SFProDisplay-Medium",
+		"weight": 0.261644
+	},
+	{
+		"name": "SFProDisplay-MediumItalic",
+		"weight": 0.253388
+	},
+	{
+		"name": "SFProDisplay-Bold",
+		"weight": 0.268269
+	},
+	{
+		"name": "SFProDisplay-BoldItalic",
+		"weight": 0.243965
+	},
+	{
+		"name": "SFProDisplay-Semibold",
+		"weight": 0.266171
+	},
+	{
+		"name": "SFProDisplay-SemiboldItalic",
+		"weight": 0.242268
+	},
+	{
+		"name": "SFProDisplay-Heavy",
+		"weight": 0.261762
+	},
+	{
+		"name": "SFProDisplay-HeavyItalic",
+		"weight": 0.229064
+	},
+	{
+		"name": "SFProDisplay-Black",
+		"weight": 0.271999
+	},
+	{
+		"name": "SFProDisplay-BlackItalic",
+		"weight": 0.231884
+	},
+	{
+		"name": "SFProRounded-Ultralight",
+		"weight": 0.246819
+	},
+	{
+		"name": "SFProRounded-Thin",
+		"weight": 0.27829
+	},
+	{
+		"name": "SFProRounded-Light",
+		"weight": 0.269627
+	},
+	{
+		"name": "SFProRounded-Regular",
+		"weight": 0.257513
+	},
+	{
+		"name": "SFProRounded-Medium",
+		"weight": 0.256867
+	},
+	{
+		"name": "SFProRounded-Bold",
+		"weight": 0.257253
+	},
+	{
+		"name": "SFProRounded-Semibold",
+		"weight": 0.26177
+	},
+	{
+		"name": "SFProRounded-Heavy",
+		"weight": 0.235541
+	},
+	{
+		"name": "SFProRounded-Black",
+		"weight": 0.258874
+	},
+	{
+		"name": "SFProText-Ultralight",
+		"weight": 0.270884
+	},
+	{
+		"name": "SFProText-UltralightItalic",
+		"weight": 0.273101
+	},
+	{
+		"name": "SFProText-Thin",
+		"weight": 0.268627
+	},
+	{
+		"name": "SFProText-ThinItalic",
+		"weight": 0.265691
+	},
+	{
+		"name": "SFProText-Light",
+		"weight": 0.264942
+	},
+	{
+		"name": "SFProText-LightItalic",
+		"weight": 0.249761
+	},
+	{
+		"name": "SFProText-Regular",
+		"weight": 0.263794
+	},
+	{
+		"name": "SFProText-RegularItalic",
+		"weight": 0.262634
+	},
+	{
+		"name": "SFProText-Medium",
+		"weight": 0.267822
+	},
+	{
+		"name": "SFProText-MediumItalic",
+		"weight": 0.258584
+	},
+	{
+		"name": "SFProText-Bold",
+		"weight": 0.262114
+	},
+	{
+		"name": "SFProText-BoldItalic",
+		"weight": 0.239124
+	},
+	{
+		"name": "SFProText-Semibold",
+		"weight": 0.257186
+	},
+	{
+		"name": "SFProText-SemiboldItalic",
+		"weight": 0.253634
+	},
+	{
+		"name": "SFProText-Heavy",
+		"weight": 0.263969
+	},
+	{
+		"name": "SFProText-HeavyItalic",
+		"weight": 0.227022
+	},
+	{
+		"name": "SFProText-Black",
+		"weight": 0.264484
+	},
+	{
+		"name": "SFProText-BlackItalic",
+		"weight": 0.241273
+	},
+	{
+		"name": "AlibabaPuHuiTiB",
+		"weight": 0
+	},
+	{
+		"name": "AlibabaPuHuiTiH",
+		"weight": 0
+	},
+	{
+		"name": "AlibabaPuHuiTiR",
+		"weight": 0
+	},
+	{
+		"name": "CTLaoSongSJ",
+		"weight": 0
+	},
+	{
+		"name": "Roboto-Light",
+		"weight": 0
+	},
+	{
+		"name": "Roboto-Medium",
+		"weight": 0
+	},
+	{
+		"name": "RobotoMono-Regular",
+		"weight": 0
+	},
+	{
+		"name": "RobotoMono-Medium",
+		"weight": 0
+	},
+	{
+		"name": "Lato-Light",
+		"weight": 0
+	},
+	{
+		"name": "Alexis",
+		"weight": 0
+	},
+	{
+		"name": "TRENDS",
+		"weight": 0
+	},
+	{
+		"name": "MyriadPro-Cond",
+		"weight": 0
+	},
+	{
+		"name": "MyriadPro-CondIt",
+		"weight": 0
+	},
+	{
+		"name": "MyriadPro-BoldCond",
+		"weight": 0
+	},
+	{
+		"name": "SimSong-Regular",
+		"weight": 0
+	},
+	{
+		"name": "SimSong-Bold",
+		"weight": 0
+	}
+]
